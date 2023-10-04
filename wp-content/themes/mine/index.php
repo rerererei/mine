@@ -2,6 +2,7 @@
 <div class="contents">
   <header>
     <div>test</div>
+    <div>test2</div>
   </header>
 </div>
 <!--end contents-->
