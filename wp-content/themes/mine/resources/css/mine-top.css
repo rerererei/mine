@@ -1,0 +1,104 @@
+.compatible-pets{
+    background-color: #00214A;
+}
+
+.compatible-pets p{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: solid 5px;
+    height: 70px;
+}
+
+section.catch-copy{
+    background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/bluesky.webp');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+
+section.catch-copy .catch-copy-content {
+    text-align: center;
+}
+
+section.catch-copy .catch-copy-content img {
+    width: 175px;
+}
+
+section.catch-copy .catch-copy-content .catch-copy-text {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+section.catch-copy .catch-copy-content .catch-copy-text p {
+    margin-bottom: 35px;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 3px 3px 4px #5b5b5b;
+}
+
+
+.company-introduction{
+    margin-top: 70px;
+}
+
+.introduction-image-left{
+    display: flex;
+    flex-direction: row-reverse;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 430px;
+}
+.bg-image-1{
+    background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/Facility-Guidance.webp');
+}
+.introduction-image-right {
+    display: flex;
+    flex-direction: row-reverse;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 430px;
+}
+.text-container{
+    padding-top: 30px;
+    width: 43%;
+    text-align: center;
+}
+
+.company-introduction h3 {
+    color: #00214A;
+    font-size: 45px;
+    font-weight: bold;
+    text-shadow: 3px 3px 7px #5b5b5b;
+}
+.hr-shadow{
+    border: 2px solid #000000;
+    opacity: unset;
+    box-shadow: 3px 3px 7px #5b5b5b;
+    margin: 0;
+}
+.h3-sub{
+    color: #00214A;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 3px 3px 7px #5b5b5b;
+}
+
+.introduction-text{
+    margin-top:50px;
+    font-size:25px;
+    font-weight: bold;
+    text-shadow: 3px 3px 7px #5b5b5b;
+}
+
+.introduction-button {
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    border: solid 5px;
+    border-radius: 0px;
+    padding: 10px 60px;
+    box-shadow: 3px 3px 7px #5b5b5b;
+    text-shadow: 3px 3px 7px #5b5b5b;
+}

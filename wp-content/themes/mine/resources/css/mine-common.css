@@ -1,5 +1,48 @@
+body{
+    max-width: 1280px;
+    margin:0 auto;
+    font-family: 'Zen Maru Gothic', serif !important;
+}
+
 .mine-header{
     background-color: #00214A;
-    height:60px;
+    height:115px;
     width: 100%;
+    color: whitesmoke;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 95%;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+#logo img{
+    width: 300px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    margin-left: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.content-margin{
+    width: 95%;
+    margin: 0 auto;
+    padding: 20px 0;
 }
