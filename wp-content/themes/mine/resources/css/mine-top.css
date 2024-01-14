@@ -39,33 +39,40 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
 }
 
 
-.company-introduction{
+.m-70 {
     margin-top: 70px;
 }
+.m-90 {
+    margin-top: 90px;
+}
+.introduction-image{
+    display: flex;
+    flex-direction: row;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 430px;
+}
 
-.introduction-image-left{
-    display: flex;
-    flex-direction: row-reverse;
-    background-repeat: no-repeat;
-    background-size: contain;
-    height: 430px;
-}
-.bg-image-1{
-    background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/Facility-Guidance.webp');
-}
-.introduction-image-right {
-    display: flex;
-    flex-direction: row-reverse;
-    background-repeat: no-repeat;
-    background-size: contain;
-    height: 430px;
-}
 .text-container{
-    padding-top: 30px;
     width: 43%;
     text-align: center;
 }
 
+.text-position-left{
+    position: relative;
+    left: -35px;
+    padding: 20px;
+}
+
+.text-position-right {
+    position: relative;
+    left: 35px;
+    padding: 20px;
+}
+
+.img-container img{
+    height: 450px;
+}
 .company-introduction h3 {
     color: #00214A;
     font-size: 45px;
@@ -101,4 +108,58 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
     padding: 10px 60px;
     box-shadow: 3px 3px 7px #5b5b5b;
     text-shadow: 3px 3px 7px #5b5b5b;
+}
+
+.whats-new{
+    margin-top: 80px;
+    padding: 60px 0;
+    background-color: #e2e2e2;
+}
+
+.whats-new-title{
+    width:33%;
+    margin:0 auto;
+    text-align: center;
+}
+
+.whats-new-title h3{
+    color: #00214A;
+    font-size: 45px;
+    font-weight: bold;
+    text-shadow: 3px 3px 7px #5b5b5b;
+}
+
+.whats-new-content{
+    display: flex;
+    flex-direction: row;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 430px;
+    width: 90%;
+    margin:40px auto;
+}
+
+.whats-new-content .scroll-area{
+    width: 60%;
+    background-color: #FFFFFF;
+    overflow-y: scroll;
+    height:300px;
+    border: 5px solid #000000;
+    padding: 15px;
+    margin:15px;
+}
+
+.whats-new-content .image-area{
+    width: 40%;
+}
+
+.whats-new-content .post-item{
+    padding: 10px 15px;
+    border-bottom: 3px solid;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.whats-new-content .post-item p {
+    margin-bottom: 0;
 }
