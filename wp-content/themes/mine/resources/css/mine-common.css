@@ -2,6 +2,7 @@ body{
     max-width: 1280px;
     margin:0 auto;
     font-family: 'Zen Maru Gothic', serif !important;
+    padding-bottom: 0;
 }
 
 .mine-header{
@@ -45,4 +46,31 @@ nav a {
     width: 95%;
     margin: 0 auto;
     padding: 20px 0;
+}
+
+.mine-footer{
+    background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/footer-bg.webp');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+    text-align: center;
+    padding: 50px;
+    padding-top: 0px;
+}
+
+.mine-footer p { 
+    margin-bottom: 0;
+    color: #FFFFFF;
+    font-size: 40px;
+}
+
+.mine-footer p.telnum {
+    color: #ffff00;
+    font-size: 70px;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
+
+.mine-footer p.tel-str {
+    font-size: 30px;
 }
