@@ -1,8 +1,21 @@
 <?php get_header(); ?>
 <div class="contents">
-  <section class="first-view">
-    <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/top-image-slider1.webp"/>
+  <section class="first-view pcview">
+    	<ul class="slider">
+        <li><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/top-image-slider1.webp"/></li>
+        <li><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/top-image-slider2.webp"/></li>
+        <li><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/top-image-slider3.webp"/></li>
+    </ul>
   </section>
+
+  <section class="first-view spview">
+    	<ul class="slider">
+        <li><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/sp/top-image-slider1.webp"/></li>
+        <li><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/sp/top-image-slider2.webp"/></li>
+        <li><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/sp/top-image-slider3.webp"/></li>
+    </ul>
+  </section>
+
   <section class="compatible-pets">
     <div class="content-margin">
       <p>対応可能ペット</p>
@@ -20,7 +33,7 @@
       </div>
     </div>
   </section>
-  <section class="company-introduction">
+  <section class="company-introduction pcview">
     <div class="introduction-image m-70">
       <div class="img-container">
           <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/Facility-Guidance.webp">
@@ -92,7 +105,84 @@
       </div>
     </div>
   </section>  
-  <section class="whats-new">
+  <section class="company-introduction spview">
+    <div class="introduction-bg bg-img1">
+      <h3>施設紹介</h3>
+      <hr>
+      <p class="sub-title">Facility Guidance</p>
+      <div class="introduction-content">
+        <p>ペット葬儀専用の斎場を完備</p>
+        <p>ペット火葬車（移動式火葬）にて</p>
+        <p>県内どこでも対応可能</p>
+      </div>
+      <div class="detail-btn">
+        <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+      </div>
+    </div>
+    <div class="introduction-bg bg-img2">
+      <h3>こだわり</h3>
+      <hr>
+      <p class="sub-title">Commitment</p>
+      <div class="introduction-content">
+        <p>創業60 年の実績と信頼の葬儀社</p>
+        <p>火葬・葬祭サービス・納骨まで</p>
+        <p>一連のサービスを提供</p>
+      </div>
+      <div class="detail-btn">
+        <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+      </div>
+    </div>
+    <div class="introduction-bg bg-img3">
+      <h3>葬儀プラン</h3>
+      <hr>
+      <p class="sub-title">Funeral Plan</p>
+      <div class="introduction-content">
+        <p>ペットは大切な家族の一員</p>
+        <p>細かな希望に沿った</p>
+        <p>御葬儀をサポート</p>
+      </div>
+      <div class="detail-btn">
+        <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+      </div>
+    </div>
+    <div class="introduction-bg bg-img4">
+      <h3>ご利用の流れ</h3>
+      <hr>
+      <p class="sub-title">Usage Flow</p>
+      <div class="introduction-content" style="margin: 36px 0;">
+        <p>亡くなられてから最後の</p>
+        <p>お見送りまでお任せください</p>
+      </div>
+      <div class="detail-btn">
+        <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+      </div>
+    </div>
+    <div class="introduction-bg bg-img5">
+      <h3>代表の想い</h3>
+      <hr>
+      <p class="sub-title">Representative's thoughts</p>
+      <div class="introduction-content" style="margin: 36px 0;">
+        <p>ペットも大切な家族だからこそ</p>
+        <p>最後お別れをー</p>
+      </div>
+      <div class="detail-btn">
+        <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+      </div>
+    </div>
+    <div class="introduction-bg bg-img6">
+      <h3>よくあるご質問</h3>
+      <hr>
+      <p class="sub-title">Frequently Asked Questions</p>
+      <div class="introduction-content" style="margin: 36px 0;">
+        <p>「ペット葬祭MINE」における</p>
+        <p>よくあるご質問をまとめております</p>
+      </div>
+      <div class="detail-btn">
+        <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+      </div>
+    </div>
+  </section>
+  <section class="whats-new pcview">
     <div class="whats-new-title">
       <h3>新着情報</h3>
       <hr class="hr-shadow">

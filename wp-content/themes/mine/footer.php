@@ -12,5 +12,15 @@
     </footer>
     <?php wp_footer(); ?>
     <!--システム・プラグイン用-->
+    <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script>
+      $('.slider').slick({
+        autoplay: true,
+        autoplaySpeed: 3000,
+        dots: false,
+        draggable: false, 
+        swipe: false,
+      });
+    </script>    
   </body>
 </html>

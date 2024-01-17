@@ -21,13 +21,17 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@500&display=swap" rel="stylesheet">
 
+        <script src="<?php echo get_stylesheet_directory_uri(); ?>/resources/js/mine.js" type="text/javaScript" charset="utf-8"></script>
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.min.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.css">
         <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/resources/css/mine-common.css">
         <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/resources/css/mine-top.css">
     </head>
 
     <body <?php body_class(); ?>>
-        <header class="mine-header">
-            <div class="header-container">
+        <header>
+            <div class="mine-header header-container pcview">
                 <!-- ロゴ -->
                 <div id="logo">
                     <a href="#">
@@ -44,5 +48,22 @@
                         <li><a href="#">お問合せ</a></li>
                     </ul>
                 </nav>
+            </div>
+            <div class="sphead hamburger-menu spview">
+                <input type="checkbox" id="menu-btn-check">
+                <label for="menu-btn-check" class="menu-btn"><span></span></label>
+                <div class="menu-content">
+                    <ul>
+                        <li>
+                            <a href="#">メニューリンク1</a>
+                        </li>
+                        <li>
+                            <a href="#">メニューリンク2</a>
+                        </li>
+                        <li>
+                            <a href="#">メニューリンク3</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </header>

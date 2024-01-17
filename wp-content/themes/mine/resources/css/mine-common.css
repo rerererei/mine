@@ -1,5 +1,9 @@
+.spview {
+    display: none;
+}
+
 body{
-    max-width: 1280px;
+    max-width: 1440px;
     margin:0 auto;
     font-family: 'Zen Maru Gothic', serif !important;
     padding-bottom: 0;
@@ -16,9 +20,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 95%;
-    margin: 0 auto;
-    padding-top: 10px;
+    padding: 0px 15px;
 }
 
 #logo img{
@@ -73,4 +75,21 @@ nav a {
 
 .mine-footer p.tel-str {
     font-size: 30px;
+}
+
+
+@media screen and (max-width: 1439px) {
+    nav a {
+            font-size: 1.8vw;
+        }
+}
+
+@media screen and (max-width: 470px) {
+    .pcview {
+        display: none;
+    }
+    .spview {
+        display: block;
+    }
+
 }

@@ -1,3 +1,8 @@
+.first-view ul {
+    padding: 0;
+    margin: 0;
+}
+
 .compatible-pets{
     background-color: #00214A;
 }
@@ -50,7 +55,9 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
     flex-direction: row;
     background-repeat: no-repeat;
     background-size: contain;
-    height: 430px;
+}
+.img-container{
+    width: 57%;
 }
 
 .text-container{
@@ -70,9 +77,6 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
     padding: 20px;
 }
 
-.img-container img{
-    height: 450px;
-}
 .company-introduction h3 {
     color: #00214A;
     font-size: 45px;
@@ -149,10 +153,13 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
     margin:15px;
 }
 
-.whats-new-content .image-area{
+.whats-new-content .image-area {
     width: 40%;
+    text-align: center;
 }
-
+.whats-new-content .image-area img{
+    width: 360px;
+}
 .whats-new-content .post-item{
     padding: 10px 15px;
     border-bottom: 3px solid;
@@ -164,3 +171,116 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
     margin-bottom: 0;
 }
 
+
+@media screen and (max-width: 1439px) {
+    .company-introduction h3 {
+        font-size: 2.8vw;
+    }
+
+
+    .h3-sub {
+        font-size: 2vw;
+    }
+
+    .introduction-text {
+        font-size: 1.7vw;
+        margin-top: 3vw;
+    }
+
+    .introduction-button {
+        margin-top: 3vw;
+        font-size: 2vw;
+    }
+    .m-90 {
+        margin-top: 7vw;
+    }
+}
+
+
+@media screen and (max-width: 470px) {
+    .content-margin {
+        padding: 4vw 0;
+    }
+
+    .compatible-pets p {
+        font-size: 6vw;
+        height: 13vw;
+        border-bottom: solid 3px;
+        font-weight: normal;
+    }
+
+    section.catch-copy .catch-copy-content{
+        padding-top: 10vw;
+    }
+    section.catch-copy .catch-copy-content img{
+        width: 20vw;
+    }
+    section.catch-copy .catch-copy-content .catch-copy-text p{
+        margin-bottom: 10vw;
+        font-size: 3vw;
+    }
+    .introduction-bg{
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 100% 100%;
+        color: whitesmoke;
+        margin-top: 5px;
+        padding: 10px;
+    }
+    .bg-img1{
+        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/sp/Facility-Guidance.webp');
+    }
+    .bg-img2{
+        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/sp/Commitment.webp');
+    }
+    .bg-img3 {
+        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/sp/Funeral-Plan.webp');
+    }
+    .bg-img4 {
+        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/sp/Usage-Flow.webp');
+    }
+    .bg-img5 {
+        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/sp/Representative_s-thoughts.webp');
+    }
+    .bg-img6 {
+        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/sp/Frequently-Asked-Questions.webp');
+    }
+    .company-introduction h3 {
+        font-size: 7vw;
+        color: whitesmoke;
+        font-weight: normal;
+        padding-left: 25px;
+    }
+
+    .company-introduction hr{
+        border: solid 1px #FFFFFF;
+        opacity: 100;
+        margin-bottom: 1vw;
+        margin-top: 1vw;
+    }
+
+    .company-introduction .sub-title {
+        padding-left: 33px;
+        font-size: 3vw;
+    }
+    
+    .company-introduction .introduction-content{
+        text-align: center;
+    }
+
+    .detail-btn{
+        text-align: right;
+    }
+
+    .introduction-button {
+        margin-top: 3vw;
+        font-size: 15px;
+        font-weight: normal;
+        border: solid 3px;
+        border-radius: 0px;
+        padding: 10px 25px;
+        box-shadow: 3px 3px 7px #5b5b5b;
+        text-shadow: 3px 3px 7px #5b5b5b;
+    }
+
+}

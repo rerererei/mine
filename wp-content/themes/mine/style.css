@@ -281,7 +281,7 @@ version： 1.0.0
 	}
 	
 	.nav-link.active {
-	    border-bottom: 2px solid #3D673C;
+	    border-bottom: 2px solid #00214A;
 	    text-decoration: none;
 	}
 	
@@ -388,7 +388,7 @@ version： 1.0.0
 	    left: 100%;
 	    /*leftの値を変更してメニューを画面外へ*/
 	    z-index: 80;
-	    background-color: #9bae88f5;
+	    background-color: #00214Af5;
 	    transition: all 1.0s;
 	    /*アニメーション設定*/
 	}
@@ -398,179 +398,3 @@ version： 1.0.0
 	    /*メニューを画面内へ*/
 	}
 	
-	.top-footer-wrap {
-	    background-color: #D9DAD9;
-	}
-	
-	.top-footer-wrap .sns-link {
-	    color: #24362B;
-	}
-	
-	.other-footer-wrap .sns-link {
-	    color: #D9DAD9;
-	}
-	
-	.footer-logo-link {
-	    width: 50%;
-	}
-	
-	.other-footer-wrap {
-	    position: absolute;
-	    bottom: -200px;
-	    width: 100%;
-	    background-color: #24362B;
-	}
-	
-	.top-footer {
-	    width: 70%;
-	    padding: 1px;
-	    margin: auto;
-	}
-	
-	.top-footer>.row {
-	    margin: 30px 0px;
-	}
-	
-	.sns-link {
-	    text-align: right;
-	    font-weight: 800;
-	}
-	
-	@media screen and (max-width: 480px) {
-	    .sns-link {
-	        text-align: center;
-	        margin: 7vw auto 15vw auto;
-	    }
-	}
-	
-	@media screen and (max-width: 480px) {
-	    .top-footer {
-	        margin-top: 15vw;
-	        font-size: 3.5vw;
-	        font-weight: 800;
-	        width: 70%;
-	        padding: 1px;
-	        margin: auto;
-	    }
-	}
-	
-	.footer-logo {
-	    padding-top: 3.5vw;
-	}
-	
-	@media screen and (max-width: 480px) {
-	    .footer-img {
-	        margin-top: 5vw;
-	    }
-	    .footer-img a {
-	        text-align: center;
-	        margin: 0 auto;
-	    }
-	}
-	
-	@media screen and (max-width: 480px) {
-	    .footer-logo {
-	        width: 70%;
-	        padding-top: 2vw;
-	    }
-	    .sns-head {
-	        margin-top: 7vw;
-	    }
-	}
-	
-	.footer-email {
-	    width: 12vw;
-	}
-	
-	.footer-instagram {
-	    width: 11vw;
-	    margin-left: 1vw;
-	}
-	
-	.bg-green {
-	    background-color: #FAFAF3;
-	    color: #24362B;
-	}
-	
-	.sns-instagram img {
-	    width: 0.5em;
-	}
-	
-	.lang-active {
-	    font-weight: 800;
-	    text-decoration: none;
-	}
-	
-	.lang-nonactive {
-	    color: #888888 !important;
-	    text-decoration: none;
-	}
-	
-	.lang-en {
-	    display: none;
-	}
-	
-	.top-footer-wrap .page-top-btn {
-	    width: 8vw;
-	    background-color: #24362B;
-	    text-align: center;
-	    margin-left: 75vw;
-	    height: 2rem;
-	    border-radius: 0px 0px 10px 10px;
-	    font-weight: 900;
-	}
-	
-	.other-footer-wrap .page-top-btn {
-	    width: 8vw;
-	    background-color: #fefefe94;
-	    text-align: center;
-	    margin-left: 75vw;
-	    height: 2rem;
-	    border-radius: 0px 0px 10px 10px;
-	    font-weight: 900;
-	}
-	
-	.top-footer-wrap .page-top-btn a {
-	    font-size: 1.3vw;
-	    padding-top: 3px;
-	    color: white !important;
-	}
-	
-	.other-footer-wrap .page-top-btn a {
-	    font-size: 1.3vw;
-	    padding-top: 3px;
-	}
-	
-	@media screen and (max-width: 480px) {
-	    .top-footer-wrap .page-top-btn {
-	        width: 23vw;
-	        margin-left: 65vw;
-	    }
-	    .other-footer-wrap .page-top-btn {
-	        width: 23vw;
-	        margin-left: 65vw;
-	    }
-	}
-	
-	@media screen and (max-width: 480px) {
-	    .top-footer-wrap .page-top-btn a {
-	        padding-top: 2vw;
-	        font-size: 3vw;
-	        color: white !important;
-	    }
-	    .other-footer-wrap .page-top-btn a {
-	        padding-top: 2vw;
-	        font-size: 3vw;
-	    }
-	}
-	
-	.insert-logo {
-	    height: 1.5vw;
-	    margin: 0 0 0.3vw 0;
-	}
-	
-	@media screen and (max-width: 480px) {
-	    .insert-logo {
-	        height: 2vw;
-	    }
-	}
