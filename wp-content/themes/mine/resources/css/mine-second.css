@@ -1,3 +1,6 @@
+/* ヘッダー共通 */
+
+
 .second-header {
     background-repeat: no-repeat;
     background-position: center center;
@@ -41,8 +44,11 @@
     width: 430px;
 }
 
-.commitment-head{
+.commitment-head {
     background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/Commitment-top.webp');
+}
+.funeral-plan-head {
+    background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/Funeral-Flow-and-Plan-top.webp');
 }
 
 .second-description {
@@ -53,7 +59,7 @@
     color: #FFFFFF;
     text-align: center;
     padding: 15px 0;
-    font-size: 60px;
+    font-size: 50px;
 }
 
 .commitment-content{
@@ -68,6 +74,7 @@
     width: 80%;
     margin: 0 auto;
     margin-bottom: 50px;
+    justify-content: space-evenly;
 }
 
 .commitmentt-content-img{
@@ -76,6 +83,9 @@
 
 .commitment-content-text{
     padding-top: 55px;
+}
+
+.commitment-content-right{
     margin-left: 50px;
 }
 
@@ -92,3 +102,38 @@
     font-weight: bold;
     text-shadow: 3px 3px 7px #5b5b5b;
 }
+
+.commitment-content-thought {
+    padding: 10px;
+}
+.commitment-content-faq {
+    padding: 10px;
+}
+
+@media screen and (max-width: 1439px) {
+    .second-description p {
+        font-size: 4vw;
+    }
+
+    .commitment-title {
+        font-size: 3vw;
+    }
+
+    .commitment-text {
+        font-size: 2vw;
+    }
+
+    .commitment-content-text {
+        padding-top: 5vw;
+    }
+    .commitment-content-img img{
+        width: 30vw;
+    }
+
+    .commitment-content-row {
+        justify-content: space-between;
+    }
+}
+
+
+/* 葬儀プランと流れ */
