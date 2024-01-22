@@ -137,3 +137,38 @@
 
 
 /* 葬儀プランと流れ */
+.funeral-plan-description{
+    margin: 50px 0;
+}
+
+.funeral-plan-description-1st{
+    font-size: 50px;
+    font-weight: bold;
+    color: #00214A;
+    border-bottom: 3px solid #00214A;
+    width: fit-content;
+    padding: 10px;
+    margin: 0 auto;    
+}
+
+.funeral-plan-description-2nd{
+    font-size: 40px;
+    font-weight: bold;
+    color: #00214A;
+    width: fit-content;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.funeral-plan-description-3rd{
+    text-align: center;
+    font-size: 27px;
+    font-weight: normal;
+    width: fit-content;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+
