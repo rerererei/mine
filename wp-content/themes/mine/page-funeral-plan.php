@@ -28,6 +28,25 @@ Template Name: 葬儀の流れとプラン
         旅立てる様に準備してあげてください。<br>
     </p>
 </section>
+<section class="funeral-plan-anchi">
+    <div class="funeral-anchi-content">
+        <p class="funeral-plan-anchi-1st">ペットちゃんの安置方法</p>
+        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/circle-icons.webp">
+        <p class="step-title">STEP1.</p>
+        <div class="funeral-plan-step">
+            <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/step1.webp"></div>
+            <div class="step-text">
+                <p>ご臨終後のご安置は、やすらかな姿にしてあげましょう</p>
+                <p>ペットちゃんの死後硬直は、私達の予想より早く手足から腹部、<br>
+                    頭部へと広がっていきます。ご遺体をそのままにしておきますと、<br>
+                    両手足がつっぱったまま硬直してしまいます。<br>
+                    ペットちゃんが亡くなられたら、両手足を胸の方へやさしく折り<br>
+                    曲げてあげてください。<br>
+                    （死後硬直しないペットちゃんもいます）</p>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 <?php get_footer(); ?>
