@@ -20,6 +20,23 @@
     text-shadow: 3px 3px 7px #5b5b5b;
 }
 
+.second-header .plan-title {
+    width: 33%;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 170px;
+}
+
+.second-header .plan-title h1 {
+    color: #FEFEFE;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.second-header .plan-title img {
+    width: 25%;
+}
+
 .second-header .second-title hr {
     height: 5px;
     opacity: 100;
@@ -40,6 +57,11 @@
     text-align: right;
 }
 
+.second-header.visit-plan-head .dogandcat {
+    margin-top: 140px;
+    text-align: right;
+}
+
 .second-header .dogandcat img{
     width: 430px;
 }
@@ -50,7 +72,9 @@
 .funeral-plan-head {
     background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/Funeral-Flow-and-Plan-top.webp');
 }
-
+.visit-plan-head {
+    background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/visit-plan/top-bg.webp');
+}
 .second-description {
     background-color: #00214A;
 }
@@ -217,9 +241,10 @@
     border: 2px solid #00214A;
     border-radius: 50px;
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-start;
     width: 90%;
     margin: 0 auto;
+    align-items: center;
 }
 .step-title{
     width: fit-content;
@@ -230,5 +255,126 @@
     position: relative;
     top: 45px;
     left: 120px;
+    color: #00214A;
+}
+.step-img{
+    text-align: center;
+    width: 40%;
+}
+
+.step-img img{
+    width: 80%;
+    padding: 70px 30px;
+}
+
+.step-text{
+    width: 60%;
+    color: #00214A;
+}
+
+.step-text-top {
+    font-size: 25px;
+    font-weight: bold;
+    width: 95%;
+    }
+
+.step-text-sec {
+    font-size: 20px;
+    font-weight: bold;
+    width: 85%;
+}
+.arrow-tri {
+    text-align: center;
+    margin-top: 90px;
+}
+.arrow-tri img{
+    width: 5%;
+}
+
+.plan-tel-area{
+    background-color: #FEFEFE;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px 0;
+}
+
+.plan-tel-area-first {
+    font-size: 30px
+}
+.plan-tel-area-second {
+    font-size: 60px;
+    color: #00214A;
+}
+
+.funeral-plan-detail{
+    width: 85%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.funeral-plan-detail h2 {
+    font-weight: bold;
+    font-size: 40px;
+}
+.funeral-plan-detail p {
+    font-size: 25px;
+    margin: 50px 0;
+}
+.funeral-plan-detail img {
+    margin-bottom: 50px;
+}
+.funeral-plan-detail a {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+/* 各種プラン画面 */
+.second-top-text{
+    padding-top: 50px;
+    text-align: center;
+    margin: 0 auto;
+    width: 85%;
+}
+
+.about-plan-text{
+    font-size: 50px;
+    font-weight: bold;
+    color: #00214A;
+}
+
+.second-top-text hr{
+    width: 320px;
+    margin: 2em auto;
+    color: #00214A;
+    border: solid 1px;
+    opacity: 100;
+}
+
+.about-plan-description{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.osusume-square{
+    margin: 0 auto;
+    width: 650px;
+    border: solid 3px #00214D;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+
+.osusume-title{
+    position: relative;
+    top: -21px;
+    background-color: #FFFFFF;
+    width: 50%;
+    margin: 0 auto;
+    font-size: 25px;
+    font-weight: bold;
     color: #00214A;
 }

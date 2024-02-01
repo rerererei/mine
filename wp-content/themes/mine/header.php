@@ -26,15 +26,15 @@
             <div class="mine-header header-container pcview">
                 <!-- ロゴ -->
                 <div id="logo">
-                    <a href="#">
+                    <a href="/mine">
                         <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/MINE-02.webp"></div>
                     </a>
                 <!-- ナビゲーションメニュー -->
                 <nav>
                     <ul>
+                        <li><a href="#">施設案内</a></li>
                         <li><a href="#">こだわり</a></li>
                         <li><a href="#">葬儀プラン</a></li>
-                        <li><a href="#">施設案内</a></li>
                         <li><a href="#">よくある質問</a></li>
                         <li><a href="#">会社概要</a></li>
                         <li><a href="#">お問合せ</a></li>

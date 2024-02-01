@@ -6,6 +6,9 @@
         <li><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/top-image-slider2.webp"/></li>
         <li><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/top-image-slider3.webp"/></li>
     </ul>
+    <div class="dogandcat">
+      <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/dogandcat.webp">
+    </div>
   </section>
 
   <section class="first-view spview">

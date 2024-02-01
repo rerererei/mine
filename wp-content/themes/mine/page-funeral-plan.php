@@ -36,15 +36,71 @@ Template Name: 葬儀の流れとプラン
         <div class="funeral-plan-step">
             <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/step1.webp"></div>
             <div class="step-text">
-                <p>ご臨終後のご安置は、やすらかな姿にしてあげましょう</p>
-                <p>ペットちゃんの死後硬直は、私達の予想より早く手足から腹部、<br>
-                    頭部へと広がっていきます。ご遺体をそのままにしておきますと、<br>
-                    両手足がつっぱったまま硬直してしまいます。<br>
-                    ペットちゃんが亡くなられたら、両手足を胸の方へやさしく折り<br>
-                    曲げてあげてください。<br>
-                    （死後硬直しないペットちゃんもいます）</p>
+                <p class="step-text-top">ご臨終後のご安置は、やすらかな姿にしてあげましょう</p>
+                <p class="step-text-sec">ペットちゃんの死後硬直は、私達の予想より早く手足から腹部、頭部へと広がっていきます。ご遺体をそのままにしておきますと、両手足がつっぱったまま硬直してしまいます。ペットちゃんが亡くなられたら、両手足を胸の方へやさしく折り曲げてあげてください。（死後硬直しないペットちゃんもいます）</p>
             </div>
         </div>
+        <div class="arrow-tri">
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/next.webp"/>
+        </div>
+        <p class="step-title">STEP2.</p>
+        <div class="funeral-plan-step">
+            <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/step2.webp"></div>
+            <div class="step-text">
+                <p class="step-text-top">ご遺体を清めてください</p>
+                <p class="step-text-sec">無理せずに、まぶたや口を閉じてあげましょう。どうしても閉まらない場合は、そのままでも結構です。次にご遺体の下にシートを敷き毛並みを整え、お湯で湿らせた布やガーゼなどで顔、頭部そして全身、肛門周辺をやさしく拭き取ります。この時、ご遺体から体液などが滲み出す場合もありますので注意してください。
+                </p>
+            </div>
+        </div>
+        <div class="arrow-tri">
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/next.webp"/>
+        </div>
+        <p class="step-title">STEP3.</p>
+        <div class="funeral-plan-step">
+            <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/step3.webp"></div>
+            <div class="step-text">
+                <p class="step-text-top">ご遺体の傷みの進行を遅らせます</p>
+                <p class="step-text-sec">暖房の効いていない涼しい場所にご安置してください。また、暑い季節はご遺体の傷みが早いため、ビニール袋に入れた氷やアイスノンなどの保冷剤をタオルにくるんで脇の下からお腹の辺りに当ててください。一週間以上、ご自宅にご安置されたい場合ご遺体は冬場で2 日位、夏場で1 日位までは、上記のご安置の仕方で大丈夫です。しかし、それ以上ご自宅でご安置されたい場合は、専用のご遺体袋( お棺) でのご安置をおすすめします。</p>
+            </div>
+        </div>
+        <div class="arrow-tri">
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/next.webp"/>
+        </div>
+        <p class="step-title">STEP4.</p>
+        <div class="funeral-plan-step">
+            <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/step4.webp"></div>
+            <div class="step-text">
+                <p class="step-text-top">最後のお別れ方法を決めて下さい</p>
+                <p class="step-text-sec">最期のお別れ方法は一般的に、<br>
+                    ①お住まいの自治体の火葬場に遺体を引き取ってもらう<br>
+                    ②ペット火葬業者にセレモニー& 火葬してもらう<br>
+                    のいずれかとなります。自治体の引取はどうしても事務的なため、家族の一員であるペットちゃんへの感謝の気持ちを込めて、また、ご自身の気持ちの整理のためにも、 ペット火葬業者でのセレモニーを選ぶ方は少なくありません。ペット葬祭MINE では、心を込めてペットちゃんをお送りするお手伝いをさせていただきます。</p>
+            </div>
+        </div>
+        <div class="plan-tel-area">
+            <p class="plan-tel-area-first">まずはお電話ください</p>
+            <p class="plan-tel-area-second">TEL.0837-52-4444</p>
+        </div>
+    </div>
+</section>
+<section class="funeral-plan-detail">
+    <h2>葬儀プランのご案内</h2>
+    <p>
+        ペットは大切な家族の一員です。<br>
+        もしもの時は安らかに送ってあげたいものです。<br>
+        ペット葬祭MINE では、細かな希望に沿った<br>
+        セレモニーをサポートします。
+    </p>
+    <div>
+        <a href="#">
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.webp"/>
+        </a>
+        <a href="#">
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/goudou.webp"/>
+        </a>
+        <a href="#">
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.webp"/>
+        </a>
     </div>
 </section>
 

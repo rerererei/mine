@@ -3,6 +3,13 @@
     margin: 0;
 }
 
+.first-view .dogandcat{
+    position: absolute;
+    top: 620px;
+    right: 36px;
+    width: 530px;
+}
+
 .compatible-pets{
     background-color: #00214A;
 }
