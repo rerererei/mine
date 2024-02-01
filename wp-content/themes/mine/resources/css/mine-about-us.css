@@ -1,0 +1,23 @@
+
+.about-us-head {
+    background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/aboutus-top.webp');
+}
+
+.about-us-h1 {
+    color: #00214A;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.about-us-h2 {
+    color: #000000;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.about-us-h2-left {
+    color: #000000;
+    font-size: 30px;
+    font-weight: bold;
+}
