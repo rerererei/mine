@@ -98,7 +98,7 @@ Template Name: 葬儀の流れとプラン
         <a href="#">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/goudou.webp"/>
         </a>
-        <a href="#">
+        <a href="/mine/visit-plan/">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.webp"/>
         </a>
     </div>

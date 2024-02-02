@@ -65,7 +65,7 @@ Template Name: こだわり
     </div>
     <div class="commitment-content-row">
         <div class="commitment-content-thought">
-            <a href="#"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/banner-thought.webp"></a>
+            <a href="/mine/visit-plan/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/banner-thought.webp"></a>
         </div>
         <div class="commitment-content-faq">
             <a href="#"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/banner-faq.webp"></a>

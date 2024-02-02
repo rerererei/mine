@@ -58,7 +58,7 @@
 }
 
 .second-header.visit-plan-head .dogandcat {
-    margin-top: 140px;
+    margin-top: 160px;
     text-align: right;
 }
 
@@ -333,6 +333,16 @@
 }
 
 /* 各種プラン画面 */
+
+.plan-arrow-tri {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: -60px;
+}
+
+.plan-arrow-tri img {
+    width: 7%;
+}
 .second-top-text{
     padding-top: 50px;
     text-align: center;
@@ -377,4 +387,58 @@
     font-size: 25px;
     font-weight: bold;
     color: #00214A;
+}
+
+.second-gray-area{
+    background-color: #DEDEDE;
+    padding-bottom: 50px;
+}
+
+.second-flow-area{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.about-plan-text{
+    padding: 50px;
+    text-align: center;
+}
+
+.img-area{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.plan-step {
+    border: 2px solid #00214A;
+    border-radius: 50px;
+    display: flex;
+    justify-content: flex-start;
+    width: 80%;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.plan-step-title {
+    width: fit-content;
+    background-color: #ffffff;
+    font-size: 45px;
+    font-weight: bold;
+    padding: 5px 20px;
+    position: relative;
+    top: 45px;
+    left: 217px;
+    color: #00214A;
+}
+
+.plan-step-text-sec {
+    font-size: 25px;
+    font-weight: bold;
+    width: 85%;
+}
+
+.plan-link{
+    width: fit-content;
+    margin: 0 auto;
+    margin-bottom: 50px;
 }

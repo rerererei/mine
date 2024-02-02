@@ -35,12 +35,12 @@
                 <!-- ナビゲーションメニュー -->
                 <nav>
                     <ul>
-                        <li><a href="#">施設案内</a></li>
-                        <li><a href="#">こだわり</a></li>
-                        <li><a href="#">葬儀プラン</a></li>
-                        <li><a href="#">よくある質問</a></li>
-                        <li><a href="#">会社概要</a></li>
-                        <li><a href="#">お問合せ</a></li>
+                        <li><a href="./">施設案内</a></li>
+                        <li><a href="./commitment">こだわり</a></li>
+                        <li><a href="./funeral-plan">葬儀プラン</a></li>
+                        <li><a href="./faq">よくある質問</a></li>
+                        <li><a href="./about-us">会社概要</a></li>
+                        <li><a href="./contact">お問合せ</a></li>
                     </ul>
                 </nav>
             </div>
@@ -49,15 +49,12 @@
                 <label for="menu-btn-check" class="menu-btn"><span></span></label>
                 <div class="menu-content">
                     <ul>
-                        <li>
-                            <a href="#">メニューリンク1</a>
-                        </li>
-                        <li>
-                            <a href="#">メニューリンク2</a>
-                        </li>
-                        <li>
-                            <a href="#">メニューリンク3</a>
-                        </li>
+                        <li><a href="/">施設案内</a></li>
+                        <li><a href="./commitment">こだわり</a></li>
+                        <li><a href="./funeral-plan">葬儀プラン</a></li>
+                        <li><a href="./faq">よくある質問</a></li>
+                        <li><a href="./about-us">会社概要</a></li>
+                        <li><a href="./contact">お問合せ</a></li>
                     </ul>
                 </div>
             </div>
