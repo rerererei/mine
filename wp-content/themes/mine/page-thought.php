@@ -16,6 +16,5 @@ Template Name: 代表の想い
 </section>
 <section class="second-description">
     <p>代表挨拶</p>
-    <p>代表挨拶</p>
 </section>
 <?php get_footer(); ?>
