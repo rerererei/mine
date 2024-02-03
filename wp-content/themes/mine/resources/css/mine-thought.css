@@ -1,3 +1,42 @@
 .thought-head {
     background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/thought-top.webp');
 }
+
+.thought-h1 {
+    color: #00214A;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.greeting{
+    background-color: #e1e2e2;
+}
+
+.daihyou {
+    width: 60%;
+    margin: auto;
+}
+
+.daihyou-thought {
+    font-size: 50px;
+    font-weight: bold;
+    color: #00214A;
+    border-bottom: 3px solid #00214A;
+    width: fit-content;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.greeting-senten {
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.marker {
+    background: #00214A;
+    color: #ffffff;
+}
