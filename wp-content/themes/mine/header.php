@@ -21,6 +21,7 @@
         <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/resources/css/mine-second.css">
         <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/resources/css/mine-about-us.css">
         <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/resources/css/mine-thought.css">
+        <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/resources/css/mine-faq.css">
         <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/resources/css/bootstrap-5.0.2-dist/css/bootstrap.min.css" />
     </head>
 

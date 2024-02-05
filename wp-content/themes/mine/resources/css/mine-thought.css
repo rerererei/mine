@@ -9,8 +9,9 @@
     text-align: center;
 }
 
-.greeting{
+.background-color-gray{
     background-color: #e1e2e2;
+    margin-top: -1rem;
 }
 
 .daihyou {

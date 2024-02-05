@@ -27,7 +27,7 @@ Template Name: 代表の想い
         <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/daihyou.webp">
     </div>
     <br><br>
-    <div class="greeting">
+    <div class="background-color-gray">
         <br>
         <p class="daihyou-thought">代表の想い</p>
         <br>

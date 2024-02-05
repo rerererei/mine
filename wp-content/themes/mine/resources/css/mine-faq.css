@@ -1,0 +1,21 @@
+.faq-head {
+    background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/faq-top.webp');
+}
+
+.white-box {
+    background-color: #ffffff;
+    width: 80%;
+    margin: auto;
+}
+
+.faq-question-text {
+    font-size: 30px;
+    margin-top: 0.5rem;
+    border-bottom: 3px solid #00214A;
+}
+
+.faq-answer-text {
+    font-size: 30px;
+    margin-top: 0.5rem;
+    border-bottom: 3px solid #2c7ca3;
+}
