@@ -1,0 +1,141 @@
+.contact-head {
+    background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/contact-top.webp');
+}
+
+.background-color-gray-contact {
+    background-color: #e1e2e2;
+    margin-top: -1rem;
+    margin-bottom: -1rem;
+}
+
+
+/* コンタクトフォーム */
+.contact-form{
+    width: 100%;
+    font-size: 14px;
+    line-height: 1.5;
+}
+.contact-form th{
+    width: 30%;
+    border: 1px solid #e8e8e8;
+    padding: 3%;
+    background-color: #00214A;
+    vertical-align: middle;
+    box-sizing: border-box;
+    position: relative;
+    top: 80px;
+    color: #ffffff;
+}
+.contact-form td{
+    width: 70%;
+    border: 1px solid #e8e8e8;
+    vertical-align: middle;
+    background-color: #ffffff;
+    padding: 3%;
+    box-sizing: border-box;
+    position: relative;
+    top: 80px;
+}
+.contact-form input,textarea{
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.form_button{
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #00214A;
+    border: none;
+    width: 200px;
+    margin: 40px auto 0;
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 50px;
+    transition: all 0.3s ease 0s;
+    opacity: 1;
+    cursor: pointer;
+    position: relative;
+    top: 80px;
+    margin-bottom: 110px;
+}
+.form_button:hover{
+    opacity: 0.8;
+}
+@media (max-width: 768px){
+    .contact-form{
+        font-size: 10px;
+    }
+    .contact-form th{
+        width: 100%;
+        display: block;
+    }
+    .contact-form td{
+        width: 100%;
+        display: block;
+    }
+    .form_button{
+        margin: 25px auto 0;
+        font-size: 14px;
+    }
+}
+
+/* error */
+.wpcf7-not-valid-tip{
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color: #e50031;
+    color: #fff;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 10px 10px;
+    position: relative;
+}
+.wpcf7-not-valid-tip::before{
+    content: "";
+    border: 10px solid transparent;
+    border-bottom: 15px solid #e50031;
+    position: absolute;
+    top: -25px;
+    left: 5%;
+}
+
+
+/* エラーメッセージの上部を消去 */
+.screen-reader-response{
+  display: none;
+}
+
+.title-img{
+    width: 50%;
+    position: relative;
+    top: 72px;
+    margin-bottom: -87px;
+}
+
+.contact-txt {
+    position: relative;
+    top: 56px;
+    left: 57px;
+}
+
+.contact-f {
+    margin: auto;
+    width: 80%;
+}
+
+@media screen and (max-width: 480px) {
+    .contact-f {
+        margin: auto;
+        width: 80%;
+    }
+
+    .wpcf7-response-output {
+        margin-top: 15px;
+        font-size: 10px;
+    }
+}

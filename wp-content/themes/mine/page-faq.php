@@ -40,7 +40,7 @@ Template Name: FAQ
                     <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/answer.webp">
                 </div>
                 <div class="col-9">
-                    <p class="faq-answer-text">葬儀プランページをご覧ください。</p>
+                    <p class="faq-answer-text"><a href="#" class="faq-link">葬儀プランページ</a>をご覧ください。</p>
                 </div>
             </div>
         </div>
@@ -187,7 +187,7 @@ Template Name: FAQ
                     <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/answer.webp">
                 </div>
                 <div class="col-9">
-                    <p class="faq-answer-text">ご利用の流れページをご覧下さい。</p>
+                    <p class="faq-answer-text"><a href="#" class="faq-link">ご利用の流れページ</a>をご覧下さい。</p>
                 </div>
             </div>
         </div>

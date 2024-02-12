@@ -19,3 +19,8 @@
     margin-top: 0.5rem;
     border-bottom: 3px solid #2c7ca3;
 }
+
+.faq-link {
+    display: inline;
+    color: #2c7ca3 !important;
+}
