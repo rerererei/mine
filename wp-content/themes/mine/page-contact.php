@@ -19,7 +19,7 @@ Template Name: 問い合わせ
 </section>
 <section class="background-color-gray-contact">
     <div class="contact-f">
-        <?php echo do_shortcode('[contact-form-7 id="ec9e4e4" title="Contact form 1"]'); ?>
+        <?php echo do_shortcode('[contact-form-7 id="d9e99c1" title="Contact form 1"]'); ?>
     </div>
 </section>
 <?php get_footer(); ?>
