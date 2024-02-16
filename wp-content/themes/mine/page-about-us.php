@@ -4,7 +4,17 @@ Template Name: 会社概要
 */
 ?>
 <?php get_header(); ?>
-<section class="second-header about-us-head">
+<section class="second-header about-us-head pcview">
+    <div class="second-title">
+        <h1>会社概要</h1>
+        <hr>
+        <h2>About-us</h2>
+    </div>
+    <div class="dogandcat">
+        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/dogandcat.webp">
+    </div>
+</section>
+<section class="second-header about-us-head spview">
     <div class="second-title">
         <h1>会社概要</h1>
         <hr>
