@@ -24,7 +24,7 @@
 }
 
 section.catch-copy{
-    background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/bluesky.webp');
+    background-image: url('../images/bluesky.webp');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100% 100%;
@@ -235,22 +235,22 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
         padding: 10px;
     }
     .bg-img1{
-        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/sp/Facility-Guidance.webp');
+        background-image: url('../images/sp/Facility-Guidance.webp');
     }
     .bg-img2{
-        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/sp/Commitment.webp');
+        background-image: url('../images/sp/Commitment.webp');
     }
     .bg-img3 {
-        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/sp/Funeral-Plan.webp');
+        background-image: url('../images/sp/Funeral-Plan.webp');
     }
     .bg-img4 {
-        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/sp/Usage-Flow.webp');
+        background-image: url('../images/sp/Usage-Flow.webp');
     }
     .bg-img5 {
-        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/sp/Representative_s-thoughts.webp');
+        background-image: url('../images/sp/Representative_s-thoughts.webp');
     }
     .bg-img6 {
-        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/sp/Frequently-Asked-Questions.webp');
+        background-image: url('../images/sp/Frequently-Asked-Questions.webp');
     }
     .company-introduction h3 {
         font-size: 7vw;

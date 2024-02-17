@@ -1,6 +1,6 @@
 
 .about-us-head {
-    background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/aboutus-top.webp');
+    background-image: url('../images/aboutus-top.webp');
 }
 
 .about-us-h1 {
@@ -24,12 +24,12 @@
 
 @media screen and (max-width: 1439px) {
     .about-us-head {
-        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/aboutus-top.webp');
+        background-image: url('../images/aboutus-top.webp');
     }
 }
 
 @media screen and (max-width: 470px) {
     .about-us-head {
-        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/sp/aboutus-top.webp');
+        background-image: url('../images/sp/aboutus-top.webp');
     }
 }

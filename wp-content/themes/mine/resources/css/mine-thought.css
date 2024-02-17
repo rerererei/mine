@@ -1,5 +1,5 @@
 .thought-head {
-    background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/thought-top.webp');
+    background-image: url('../images/thought-top.webp');
 }
 
 .thought-h1 {
@@ -44,12 +44,12 @@
 
 @media screen and (max-width: 1439px) {
     .thought-head {
-        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/thought-top.webp');
+        background-image: url('../images/thought-top.webp');
     }
 }
 
 @media screen and (max-width: 470px) {
     .thought-head {
-        background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/sp/thought-top.webp');
+        background-image: url('../images/sp/thought-top.webp');
     }
 }
