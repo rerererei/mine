@@ -52,4 +52,35 @@
     .thought-head {
         background-image: url('../images/sp/thought-top.webp');
     }
+
+    .thought-h1 {
+        color: #00214A;
+        font-size: 17px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .daihyou-thought {
+        font-size: 25px;
+        font-weight: bold;
+        color: #00214A;
+        border-bottom: 3px solid #00214A;
+        width: fit-content;
+        padding: 10px;
+        margin: 0 auto;
+    }
+
+    .greeting-senten {
+        text-align: left;
+        font-size: 17px;
+        font-weight: normal;
+        padding: 10px;
+        margin: 0 auto;
+    }
+
+    .marker {
+        background: none;
+        color: #00214A;
+        font-weight: bolder;
+    }
 }
