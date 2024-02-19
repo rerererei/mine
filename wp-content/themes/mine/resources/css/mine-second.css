@@ -67,13 +67,13 @@
 }
 
 .commitment-head {
-    background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/Commitment-top.webp');
+    background-image: url('../images/Commitment-top.webp');
 }
 .funeral-plan-head {
-    background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/Funeral-Flow-and-Plan-top.webp');
+    background-image: url('../images/Funeral-Flow-and-Plan-top.webp');
 }
 .visit-plan-head {
-    background-image: url('http://localhost/mine/wp-content/themes/mine/resources/images/visit-plan/top-bg.webp');
+    background-image: url('../images/visit-plan/top-bg.webp');
 }
 .second-description {
     background-color: #00214A;

@@ -92,10 +92,10 @@ Template Name: 葬儀の流れとプラン
         セレモニーをサポートします。
     </p>
     <div>
-        <a href="#">
+        <a href="/mine/presence-plan/">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.webp"/>
         </a>
-        <a href="#">
+        <a href="/mine/together-plan/">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/goudou.webp"/>
         </a>
         <a href="/mine/visit-plan/">
