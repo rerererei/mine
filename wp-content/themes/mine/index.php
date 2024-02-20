@@ -10,7 +10,6 @@
       <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/dogandcat.webp">
     </div>
   </section>
-
   <section class="first-view spview">
     	<ul class="slider">
         <li><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/sp/top-image-slider1.webp"/></li>
@@ -18,7 +17,6 @@
         <li><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/sp/top-image-slider3.webp"/></li>
     </ul>
   </section>
-
   <section class="compatible-pets">
     <div class="content-margin">
       <p>対応可能ペット</p>
@@ -224,13 +222,14 @@
         <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/new-icon.webp">
       </div>
     </div>
-    <h3>Facebook</h3>
-    <div class="FBArea"></div>
-    <h3>Instagram</h3>
-    <div class="InstaArea">
-      <?php echo do_shortcode('[instagram-feed feed=1]'); ?>
+    <div class="sns-area">
+      <h3 class="sns-title">Facebook</h3>
+      <div class="FBArea"></div>
+      <h3 class="sns-title">Instagram</h3>
+      <div class="InstaArea">
+        <?php echo do_shortcode('[instagram-feed feed=1]'); ?>
+      </div>
     </div>
-
   </section>
 </div>
 <!--end contents-->

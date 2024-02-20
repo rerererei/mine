@@ -178,6 +178,15 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
     margin-bottom: 0;
 }
 
+.sns-title {
+    text-align: center;
+    font-size: 40px;
+}
+
+.sns-area{
+    width: 90%;
+    margin: 0 auto;
+}
 
 @media screen and (max-width: 1439px) {
     .company-introduction h3 {
@@ -292,10 +301,6 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
     .whats-new{
         margin-top: 0px;
     }
-    .whats-new > h3 {
-        text-align: center;
-        font-size: 6vw;
-    }
     .whats-new-title h3 {
         font-size: 7vw;
     }
@@ -315,5 +320,9 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
     }
     .whats-new-content .image-area {
         display: none;
+    }
+    .sns-title {
+        text-align: center;
+        font-size: 6vw;
     }
 }

@@ -18,3 +18,9 @@ function init_session_start() {
 }
 
 add_action( 'template_redirect', 'init_session_start' );
+
+// 対象ページのみreCAPTCHAを読み込む
+add_action('wp_enqueue_scripts', function(){
+  if(is_page('contact')) return;
+    wp_deregister_script('google-recaptcha');
+}, 100, 0);
