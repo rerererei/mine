@@ -38,7 +38,7 @@
                 <!-- ナビゲーションメニュー -->
                 <nav>
                     <ul>
-                        <li><a href="./">施設案内</a></li>
+                        <li><a href="./facility-guidance">施設案内</a></li>
                         <li><a href="./commitment">こだわり</a></li>
                         <li><a href="./funeral-plan">葬儀プラン</a></li>
                         <li><a href="./faq">よくある質問</a></li>
@@ -52,7 +52,7 @@
                 <label for="menu-btn-check" class="menu-btn"><span></span></label>
                 <div class="menu-content">
                     <ul>
-                        <li><a href="/">施設案内</a></li>
+                        <li><a href="./facility-guidance">施設案内</a></li>
                         <li><a href="./commitment">こだわり</a></li>
                         <li><a href="./funeral-plan">葬儀プラン</a></li>
                         <li><a href="./faq">よくある質問</a></li>

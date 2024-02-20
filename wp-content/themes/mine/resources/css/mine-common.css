@@ -91,5 +91,16 @@ nav a {
     .spview {
         display: block;
     }
-
+    .mine-footer {
+        padding-bottom: 80px;
+    }
+    .mine-footer p {
+        font-size: 6vw;
+    }
+    .mine-footer p.tel-str {
+        font-size: 4vw;
+    }
+    .mine-footer p.telnum{
+        font-size: 9vw;
+    }
 }

@@ -199,6 +199,35 @@
         font-weight: bold;
         text-shadow: 3px 3px 7px #5b5b5b;
     }
+    .commitment-content {
+        width: 95%;
+        margin: 0 auto;
+        padding: 0;
+    }
+    .commitment-content-row {
+        display: flex;
+        flex-direction: column;
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin: 0 auto;
+        margin-bottom: 50px;
+        justify-content: space-evenly;
+        text-align: center;
+        width: 100%;
+    }
+    .commitment-content-img img {
+        width: 200px;
+    }
+    .commitment-content-text {
+        padding-top: 30px;
+        margin: 0;
+    }
+    .commitment-title {
+        font-size: 25px;
+    }
+    .commitment-text {
+        font-size: 20px;
+    }
 }
 
 /* 葬儀プランと流れ */
@@ -373,6 +402,79 @@
     margin: 0 auto;
 }
 
+@media screen and (max-width: 470px) {
+    .funeral-plan-description-1st {
+        font-size: 25px;
+    }
+    .funeral-plan-description-2nd {
+        font-size: 17px;
+    }
+    .funeral-plan-description-3rd {
+        font-size: 17px;
+    }
+    .funeral-plan-anchi-1st {
+        font-size: 25px;
+    }
+    .spicons {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 0px;
+    }
+    .spicons.spview img {
+        width: 50%;
+        padding: 15px;
+    }
+    .step-title {
+        font-size: 25px;
+        padding: 5px 10px;
+        top: 40px;
+        left: 52px;
+    }
+    .step-text{
+        width:100%;
+        padding: 40px 20px;
+    }
+    .step-text-top {
+        font-size: 5vw;
+        font-weight: bold;
+        width: 100%;
+    }
+    .step-text img {
+        width: 60%;
+        margin-left: 14vw;
+    }
+    .step-text-sec {
+        font-size: 4vw;
+        width: 100%;
+        margin-top: 25px;
+    }
+    .arrow-tri {
+        margin-top: 30px;
+    }
+    .arrow-tri img {
+        width: 10%;
+    }
+    .plan-tel-area{
+        width: 100%;
+    }
+    .plan-tel-area-first {
+        font-size: 5vw;
+    }
+    .plan-tel-area-second {
+        font-size: 9vw;
+    }
+    .funeral-plan-detail h2 {
+        font-weight: bold;
+        font-size: 6vw;
+    }
+    .funeral-plan-detail p {
+        font-size: 4vw;
+        margin: 50px 0;
+        font-weight: bold;
+    }
+}
+
 /* 各種プラン画面 */
 
 .plan-arrow-tri {
@@ -482,4 +584,10 @@
     width: fit-content;
     margin: 0 auto;
     margin-bottom: 50px;
+}
+
+@media screen and (min-width: 471px) {
+    .spview{
+        display: none;
+    }
 }
