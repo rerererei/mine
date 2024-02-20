@@ -2,6 +2,11 @@
     background-image: url('../images/faq-top.webp');
 }
 
+.background-color-gray-faq {
+    background-color: #e1e2e2;
+    margin-top: -1rem;
+}
+
 .white-box {
     background-color: #ffffff;
     width: 80%;
@@ -11,16 +16,59 @@
 .faq-question-text {
     font-size: 30px;
     margin-top: 0.5rem;
-    border-bottom: 3px solid #00214A;
+    display: inline;
+    background: linear-gradient(transparent 90%, #00214A 0%);
+    padding-bottom: 5px;
 }
 
 .faq-answer-text {
     font-size: 30px;
-    margin-top: 0.5rem;
-    border-bottom: 3px solid #2c7ca3;
+    display: inline;
+    background: linear-gradient(transparent 90%, #2c7ca3 0%);
+    padding-bottom: 5px;
 }
 
 .faq-link {
     display: inline;
     color: #2c7ca3 !important;
+}
+
+.faq-img {
+    margin-left: 0vw;
+    margin-top: 0vw;
+}
+
+@media screen and (max-width: 1439px) {
+    .faq-head {
+        background-image: url('../images/faq-top.webp');
+    }
+}
+
+@media screen and (max-width: 470px) {
+    .faq-head {
+        background-image: url('../images/sp/faq-top.webp');
+    }
+    
+    .background-color-gray-faq {
+        background-color: #e1e2e2;
+        margin-top: 0;
+    }
+
+    .faq-question-text {
+        font-size: 14px;
+        display: inline;
+        background: linear-gradient(transparent 90%, #00214A 0%);
+        padding-bottom: 2px;
+    }
+    
+    .faq-answer-text {
+        font-size: 14px;
+        display: inline;
+        background: linear-gradient(transparent 90%, #2c7ca3 0%);
+        padding-bottom: 2px;
+    }
+
+    .faq-img {
+        margin-left: 2.5vw;
+    }
 }
