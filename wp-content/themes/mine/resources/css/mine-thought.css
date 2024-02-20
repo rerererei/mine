@@ -30,10 +30,12 @@
 }
 
 .greeting-senten {
-    text-align: center;
-    font-size: 23px;
+    text-align: left;
+    font-size: 25px;
     font-weight: bold;
     padding: 10px;
+    padding-left: 13%;
+    padding-right: 13%;
     margin: 0 auto;
 }
 
@@ -55,7 +57,7 @@
 
     .thought-h1 {
         color: #00214A;
-        font-size: 17px;
+        font-size: 16px;
         font-weight: bold;
         text-align: center;
     }
@@ -63,8 +65,8 @@
     .daihyou-thought {
         font-size: 25px;
         font-weight: bold;
-        color: #00214A;
-        border-bottom: 3px solid #00214A;
+        color: #ffffff;
+        border-bottom: 3px solid #ffffff;
         width: fit-content;
         padding: 10px;
         margin: 0 auto;
@@ -73,14 +75,28 @@
     .greeting-senten {
         text-align: left;
         font-size: 17px;
+        color: #ffffff;
         font-weight: normal;
-        padding: 10px;
+        padding-left: 7%;
+        padding-right: 5%;
         margin: 0 auto;
     }
 
     .marker {
         background: none;
-        color: #00214A;
-        font-weight: bolder;
+        font-weight: normal;
+        display: inline;
+        background: linear-gradient(transparent 90%, #ffff00 0%);
+        padding-bottom: 5px;
+    }
+
+    .daihyou {
+        width: 85%;
+        margin: auto;
+    }
+
+    .background-color-gray{
+        background-color: #00214A;
+        margin-top: -1rem;
     }
 }

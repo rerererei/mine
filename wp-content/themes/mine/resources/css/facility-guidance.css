@@ -38,6 +38,16 @@
     margin-left: 1rem;
 }
 
+.title-txt-left {
+    color: #00214A;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 0rem;
+    margin-left: 1rem;
+}
+
 .explanation-txt {
     color: #000000;
     font-size: 30px;
@@ -45,6 +55,8 @@
     margin-top: 10px;
     margin-bottom: 0rem;
     margin-left: 1rem;
+    padding-right: 0%;
+    padding-left: 0%;
 }
 
 .ima-75 {
@@ -58,4 +70,109 @@
 
 .map {
     margin-left: 50px;
+}
+
+.facility-guidance {
+    font-size: 50px;
+    font-weight: bold;
+    color: #00214A;
+    border-bottom: 3px solid #00214A;
+    width: fit-content;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.img-100 {
+    width: 100%;
+}
+
+@media screen and (max-width: 1439px) {
+    .facility-guidance-head {
+        background-image: url('../images/facility-guidance-top.webp');
+    }
+}
+
+@media screen and (max-width: 470px) {
+    .facility-guidance-head {
+        background-image: url('../images/sp/facility-guidance-top.webp');
+    }
+
+    .map-position {
+        margin-top: 0rem;
+    }
+
+    .fg-h2 {
+        color: #00214A;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+        padding: 0px 0px 0px;
+        margin-bottom: 1px;
+    }
+
+    .fg-txt {
+        color: #000000;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: left;
+        margin-top: 0px;
+        margin-bottom: 0rem;
+        margin-left: 1rem;
+    }
+
+    .facility-guidance {
+        font-size: 20px;
+        font-weight: bold;
+        color: #00214A;
+        border-bottom: 3px solid #00214A;
+        width: fit-content;
+        padding: 10px;
+        margin: 0 auto;
+    }
+
+    .img-100 {
+        width: 100%;
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+
+    .title-txt {
+        color: #00214A;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 0rem;
+        margin-left: 0rem;
+    }
+
+    .explanation-txt {
+        color: #000000;
+        font-size: 16px;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 0rem;
+        margin-left: 0rem;
+        padding-right: 8%;
+        padding-left: 8%;
+    }
+
+    .ima-75 {
+        width: 50%;
+    }
+
+    .title-txt-left {
+        color: #00214A;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: left;
+        margin-top: 0px;
+        margin-bottom: 0rem;
+        margin-left: 1rem;
+    }
+
+    .map {
+        margin-left: 0px;
+        text-align: center;
+    }
 }
