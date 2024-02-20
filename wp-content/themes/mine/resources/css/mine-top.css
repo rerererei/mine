@@ -289,5 +289,31 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
         box-shadow: 3px 3px 7px #5b5b5b;
         text-shadow: 3px 3px 7px #5b5b5b;
     }
+    .whats-new{
+        margin-top: 0px;
+    }
+    .whats-new > h3 {
+        text-align: center;
+        font-size: 6vw;
+    }
+    .whats-new-title h3 {
+        font-size: 7vw;
+    }
+    
+    .h3-sub {
+        font-size: 4vw;
+    }
+    .whats-new-content{
+        height: auto;
+    }
+    .whats-new-content .scroll-area {
+        width: 100%;
+    }
 
+    .whats-new-content .post-item {
+        font-size: 3vw;
+    }
+    .whats-new-content .image-area {
+        display: none;
+    }
 }

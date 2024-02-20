@@ -185,7 +185,7 @@
       </div>
     </div>
   </section>
-  <section class="whats-new pcview">
+  <section class="whats-new">
     <div class="whats-new-title">
       <h3>新着情報</h3>
       <hr class="hr-shadow">
@@ -224,6 +224,13 @@
         <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/new-icon.webp">
       </div>
     </div>
+    <h3>Facebook</h3>
+    <div class="FBArea"></div>
+    <h3>Instagram</h3>
+    <div class="InstaArea">
+      <?php echo do_shortcode('[instagram-feed feed=1]'); ?>
+    </div>
+
   </section>
 </div>
 <!--end contents-->
