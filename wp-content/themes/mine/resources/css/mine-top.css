@@ -36,6 +36,7 @@ section.catch-copy .catch-copy-content {
 
 section.catch-copy .catch-copy-content img {
     width: 175px;
+    margin-top: 30px;
 }
 
 section.catch-copy .catch-copy-content .catch-copy-text {
@@ -225,8 +226,8 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
     }
 
     .compatible-pets p {
-        font-size: 6vw;
-        height: 13vw;
+        font-size: 3vw;
+        height: 8vw;
         border-bottom: solid 3px;
         font-weight: normal;
     }
@@ -236,10 +237,12 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
     }
     section.catch-copy .catch-copy-content img{
         width: 20vw;
+        margin-top: 0px;
     }
     section.catch-copy .catch-copy-content .catch-copy-text p{
         margin-bottom: 10vw;
-        font-size: 3vw;
+        font-size: 3.5vw;
+        text-shadow: none;
     }
     .introduction-bg{
         background-repeat: no-repeat;
@@ -319,6 +322,7 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
     }
     .whats-new-content .scroll-area {
         width: 100%;
+        height:200px;
     }
 
     .whats-new-content .post-item {
@@ -330,5 +334,12 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
     .sns-title {
         text-align: center;
         font-size: 6vw;
+    }
+
+    .first-view .dogandcat {
+        position: absolute;
+        top: 85vw;
+        right: 4px;
+        width: 150px;
     }
 }
