@@ -6,7 +6,7 @@
       <p>山口県美祢市大嶺町奥分170</p>
       <br>
       <p class="tel-str">お気軽にお電話ください。</p>
-      <p class="telnum">0837-52-4444</p>
+      <p class="telnum">0837-52-2100</p>
       <p class="tel-str">お問合せ対応時間10:00~17:00</p>
 
     </footer>

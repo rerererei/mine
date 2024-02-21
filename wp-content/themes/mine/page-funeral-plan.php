@@ -143,7 +143,7 @@ Template Name: 葬儀の流れとプラン
         </div>        
         <div class="plan-tel-area">
             <p class="plan-tel-area-first">まずはお電話ください</p>
-            <p class="plan-tel-area-second">TEL.0837-52-4444</p>
+            <p class="plan-tel-area-second">TEL.0837-52-2100</p>
         </div>
     </div>
 </section>

@@ -171,7 +171,7 @@ Template Name: 会社概要
                             <p class="about-us-h2">電話番号</p>
                         </div>
                         <div class="col-8">
-                            <p class="about-us-h2-left">0837-52-4444</p>
+                            <p class="about-us-h2-left">0837-52-2100</p>
                         </div>
                     </div>
                     <div class="row">
@@ -295,7 +295,7 @@ Template Name: 会社概要
                     <p class="about-us-h2">電話番号</p>
                 </div>
                 <div class="col-8">
-                    <p class="about-us-h2-left">0837-52-4444</p>
+                    <p class="about-us-h2-left">0837-52-2100</p>
                 </div>
             </div>
             <div class="row">
