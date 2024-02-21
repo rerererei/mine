@@ -44,7 +44,7 @@ Template Name: 訪問ご自宅プラン
             <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/tell.webp"></div>
             <div class="step-text">
                 <p class="plan-step-text-sec">ペット葬祭MINE へお電話下さい。<br>ペットの種類や大きさ、お迎えのご希望日時などをご連絡ください。 お客様からお伝えいただいた情報をもとにお引取りの日程と費用をお伝えします。</p>
-                <p class="plan-step-text-sec" style="font-size:55px;text-decoration: underline;">TEL:0837-52-4444</p>
+                <p class="plan-step-text-sec" style="font-size:55px;text-decoration: underline;">TEL:0837-52-2100</p>
             </div>
         </div>
         <div class="plan-arrow-tri">

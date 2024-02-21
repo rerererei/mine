@@ -133,26 +133,14 @@
         <a href="./commitment" class="btn introduction-button">詳しくはこちら →</a>
       </div>
     </div>
-    <div class="introduction-bg bg-img3">
-      <h3>葬儀プラン</h3>
+    <div class="introduction-bg bg-img4">
+      <h3>葬儀の流れとプラン</h3>
       <hr>
-      <p class="sub-title">Funeral Plan</p>
+      <p class="sub-title">Funeral Flow And Plan</p>
       <div class="introduction-content">
         <p>ペットは大切な家族の一員</p>
         <p>細かな希望に沿った</p>
         <p>御葬儀をサポート</p>
-      </div>
-      <div class="detail-btn">
-        <a href="./funeral-plan" class="btn introduction-button">詳しくはこちら →</a>
-      </div>
-    </div>
-    <div class="introduction-bg bg-img4">
-      <h3>ご利用の流れ</h3>
-      <hr>
-      <p class="sub-title">Usage Flow</p>
-      <div class="introduction-content" style="margin: 36px 0;">
-        <p>亡くなられてから最後の</p>
-        <p>お見送りまでお任せください</p>
       </div>
       <div class="detail-btn">
         <a href="./funeral-plan" class="btn introduction-button">詳しくはこちら →</a>

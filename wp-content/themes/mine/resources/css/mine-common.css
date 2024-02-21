@@ -54,7 +54,7 @@ nav a {
     background-image: url('../images/footer-bg.webp');
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 100% 100%;
+    background-size: 100% 102%;
     text-align: center;
     padding: 50px;
     padding-top: 0px;
@@ -68,13 +68,25 @@ nav a {
 
 .mine-footer p.telnum {
     color: #ffff00;
-    font-size: 70px;
+    font-size: 50px;
     letter-spacing: 5px;
     font-weight: bold;
 }
 
 .mine-footer p.tel-str {
     font-size: 30px;
+}
+
+.mine-footer p.adress-str {
+    margin-bottom: 0;
+    color: #FFFFFF;
+    font-size: 35px;
+    margin-bottom: 0vw;
+}
+
+.footer-logo {
+    margin:10px;
+    width:40%;
 }
 
 
@@ -98,9 +110,30 @@ nav a {
         font-size: 6vw;
     }
     .mine-footer p.tel-str {
-        font-size: 4vw;
+        font-size: 3vw;
     }
     .mine-footer p.telnum{
-        font-size: 9vw;
+        font-size: 6vw;
+    }
+
+    .footer-logo {
+        margin: 5px;
+        width: 55%;
+    }
+
+    .mine-footer p.adress-str {
+        font-size: 3vw;
+        margin-bottom: -3vw;
+    }
+
+    .mine-footer{
+        background-image: url('../images/footer-bg.webp');
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 103% 100%;
+        text-align: center;
+        padding: 50px;
+        padding-top: 0px;
+        height: 198px;
     }
 }
