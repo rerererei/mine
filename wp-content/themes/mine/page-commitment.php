@@ -4,7 +4,7 @@ Template Name: こだわり
 */
 ?>
 <?php get_header(); ?>
-<section class="second-header commitment-head">
+<section class="second-header commitment-head pcview">
     <div class="second-title">
         <h1>こだわり</h1>
         <hr>
@@ -14,8 +14,21 @@ Template Name: こだわり
         <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/dogandcat.webp">
     </div>
 </section>
-<section class="second-description">
+<section class="second-header commitment-head spview">
+    <div class="second-title">
+        <h1>こだわり</h1>
+        <hr>
+        <h2>Obsession</h2>
+    </div>
+    <div class="dogandcat">
+        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/dogandcat.webp">
+    </div>
+</section>
+<section class="second-description pcview">
     <p>ペット葬祭MINEが選ばれる理由</p>
+</section>
+<section class="second-description spview">
+    <br>
 </section>
 <section class="commitment-content">
     <div class="commitment-content-row">
@@ -27,7 +40,7 @@ Template Name: こだわり
             <p class="commitment-text">ペット火葬車（移動式火葬炉）にて<br>山口県内どこでも対応可能です。<br>長年一緒に過ごしてきたご自宅で<br>葬儀から火葬まで行うことができます。</p>    
         </div>
     </div>
-    <div class="commitment-content-row">
+    <div class="commitment-content-row-blue">
         <div class="commitment-content-img spview">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/center-eco.webp">
         </div>
@@ -38,9 +51,11 @@ Template Name: こだわり
         <div class="commitment-content-img commitment-content-right pcview">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/center-eco.webp">
         </div>
+        <br class="spview">
+        <br class="spview">
     </div>
     <div class="commitment-content-row">
-        <div class="commitment-content-img">
+        <div class="commitment-content-img2">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/center-service.webp">
         </div>
         <div class="commitment-content-text commitment-content-right">
@@ -48,7 +63,7 @@ Template Name: こだわり
             <p class="commitment-text">ペットが亡くなられてからご葬儀、火葬、<br>納骨、法要まで一連のサービスを提供。<br>創業60 年の実績と信頼の葬儀社の<br>ペット葬祭だからこそお任せください。</p>    
         </div>
     </div>
-    <div class="commitment-content-row">
+    <div class="commitment-content-row-gray">
         <div class="commitment-content-img spview">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/center-build.webp">
         </div>
@@ -59,6 +74,8 @@ Template Name: こだわり
         <div class="commitment-content-img commitment-content-right pcview">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/center-build.webp">
         </div>
+        <br class="spview">
+        <br class="spview">
     </div>
     <div class="commitment-content-row">
         <div class="commitment-content-thought">
@@ -68,6 +85,5 @@ Template Name: こだわり
             <a href="/mine/faq/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/banner-faq.webp"></a>
         </div>
     </div>
-
 </section>
 <?php get_footer(); ?>

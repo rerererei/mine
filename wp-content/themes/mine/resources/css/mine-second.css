@@ -101,6 +101,28 @@
     justify-content: space-evenly;
 }
 
+.commitment-content-row-blue{
+    display: flex;
+    flex-direction: row;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    justify-content: space-evenly;
+}
+
+.commitment-content-row-gray{
+    display: flex;
+    flex-direction: row;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    justify-content: space-evenly;
+}
+
 .commitmentt-content-img{
     width: 30%;
 }
@@ -124,14 +146,16 @@
     color: #000000;
     font-size: 30px;
     font-weight: bold;
-    text-shadow: 3px 3px 7px #5b5b5b;
+    padding-top: 15px;
 }
 
 .commitment-content-thought {
-    padding: 10px;
+    width: 100%;
+    padding: 15px;
 }
 .commitment-content-faq {
-    padding: 10px;
+    width: 100%;
+    padding: 15px;
 }
 
 @media screen and (max-width: 1439px) {
@@ -151,10 +175,26 @@
         padding-top: 5vw;
     }
     .commitment-content-img img{
-        width: 30vw;
+        width: 27vw;
+        padding-top: 30px;
+        padding-left: 30px;
+    }
+
+    .commitment-content-img2 img{
+        width: 27vw;
+        padding-top: 30px;
+        padding-left: 30px;
     }
 
     .commitment-content-row {
+        justify-content: space-between;
+    }
+
+    .commitment-content-row-blue {
+        justify-content: space-between;
+    }
+
+    .commitment-content-row-gray {
         justify-content: space-between;
     }
 }
@@ -200,7 +240,7 @@
         text-shadow: 3px 3px 7px #5b5b5b;
     }
     .commitment-content {
-        width: 95%;
+        width: 100%;
         margin: 0 auto;
         padding: 0;
     }
@@ -215,8 +255,39 @@
         text-align: center;
         width: 100%;
     }
+    .commitment-content-row-blue {
+        display: flex;
+        flex-direction: column;
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin: 0 auto;
+        margin-bottom: 50px;
+        justify-content: space-evenly;
+        text-align: center;
+        width: 100%;
+        background-color: #e6f1ff;
+    }
+    .commitment-content-row-gray {
+        display: flex;
+        flex-direction: column;
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin: 0 auto;
+        margin-bottom: 50px;
+        justify-content: space-evenly;
+        text-align: center;
+        width: 100%;
+        background-color: #e1e2e2;
+    }
     .commitment-content-img img {
-        width: 200px;
+        width: 180px;
+        padding-top: 40px;
+        padding-left: 0px;
+    }
+    .commitment-content-img2 img {
+        width: 180px;
+        padding-top: 15px;
+        padding-left: 0px;
     }
     .commitment-content-text {
         padding-top: 30px;
@@ -226,7 +297,21 @@
         font-size: 25px;
     }
     .commitment-text {
-        font-size: 20px;
+        font-size: 16px;
+    }
+    .commitment-head {
+        background-image: url('../images/sp/Commitment-top.webp');
+    }
+    .commitment-content-thought {
+        width: 100%;
+        padding-right: 25px;
+        padding-left: 25px;
+        padding-bottom: 25px;
+    }
+    .commitment-content-faq {
+        width: 100%;
+        padding-right: 25px;
+        padding-left: 25px;
     }
 }
 
