@@ -157,10 +157,10 @@ Template Name: 訪問ご自宅プラン
 <section class="second-gray-area">
     <h2 class="about-plan-text">その他のプランのご案内</h2>
     <div class="img-area">
-        <a class="plan-link" href="/mine/together-plan">
+        <a class="plan-link" href="/mine/presence-plan">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.webp"/>
         </a>
-        <a class="plan-link" href="/mine/presence-plan">
+        <a class="plan-link" href="/mine/together-plan">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/goudou.webp"/>
         </a>
     </div>

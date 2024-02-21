@@ -721,7 +721,7 @@
 
     .plan-step-title{
         font-size: 6vw;
-        left: 33vw;
+        left: 15vw;
         top: 9vw;
     }
     .step-text{
@@ -738,5 +738,13 @@
         width: 100%;
         text-align: left;
         margin-top: 15px;
+    }
+    .plan-arrow-tri {
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: -20px;
+    }
+    .plan-step-text-top{
+        text-align: left;
     }
 }
