@@ -6,7 +6,7 @@ Template Name: 立会火葬返骨プラン
 <?php get_header(); ?>
 <section class="second-header visit-plan-head">
     <div class="plan-title" style="width: 60%;">
-        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/visit-logo.webp"/>
+        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/presence-logo.webp"/>
         <h1>立会火葬返骨プラン</h1>
     </div>
     <div class="dogandcat">
@@ -37,11 +37,11 @@ Template Name: 立会火葬返骨プラン
 <section class="second-gray-area">
     <h2 class="about-plan-text">サービス内容</h2>
     <div class="img-area">
-        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/jitaku-naiyou.webp"/>
+        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/presence-plan/presence-table-sp.webp"/>
     </div>
     <h2 class="about-plan-text">ご利用の一例</h2>
     <div class="img-area">
-        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/jitaku-example.webp"/>
+        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/presence-plan/sample-plan-sp.webp"/>
     </div>
 </section>
 <section class="second-flow-area pcview">
@@ -126,7 +126,7 @@ Template Name: 立会火葬返骨プラン
         <div class="plan-step">
             <div class="step-text">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/visitor.webp">
-                <p class="step-text-sec">スタッフがご自宅へセレモニー車でお伺いします。<br>※高速料金は別途実費をいただきます。
+                <p class="plan-step-text-sec">スタッフがご自宅へセレモニー車でお伺いします。<br>※高速料金は別途実費をいただきます。
                 </p>
             </div>
         </div>
@@ -137,8 +137,8 @@ Template Name: 立会火葬返骨プラン
         <div class="plan-step">
             <div class="step-text">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/farewell.webp">
-                <p class="step-text-top">ご遺体の傷みの進行を遅らせます</p>
-                <p class="step-text-sec">ペットちゃんと最後のお別れをなさってきただきます。<br>※1. 火葬出来ないものは入れられない場合もありますので、スタッフにご確認ください。<br>※2. 火葬には弊社指定のお棺をご利用いただきます。<br>（棺S￥3,900 M￥8,500 L￥11,500 2L￥16,500）税込</p>
+                <p class="plan-step-text-top">ご遺体の傷みの進行を遅らせます</p>
+                <p class="plan-step-text-sec">ペットちゃんと最後のお別れをなさってきただきます。<br>※1. 火葬出来ないものは入れられない場合もありますので、スタッフにご確認ください。<br>※2. 火葬には弊社指定のお棺をご利用いただきます。<br>（棺S￥3,900 M￥8,500 L￥11,500 2L￥16,500）税込</p>
             </div>
         </div>
         <div class="plan-arrow-tri">
@@ -148,7 +148,7 @@ Template Name: 立会火葬返骨プラン
         <div class="plan-step">
             <div class="step-text">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/cremation.webp">
-                <p class="step-text-sec">セレモニー車にて個別火葬を致します。<br>
+                <p class="plan-step-text-sec">セレモニー車にて個別火葬を致します。<br>
                     ※ご自宅に駐車場が無い場合・住宅街の場合はご自宅から離れ火葬を致します。
                 </p>
             </div>
@@ -160,7 +160,7 @@ Template Name: 立会火葬返骨プラン
         <div class="plan-step">
             <div class="step-text">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/bone-raising.webp">
-                <p class="step-text-sec">火葬にはお時間をいただきますので、ペットちゃんの思い出話などを楽しみながら待合室でお過ごしください。ご火葬が終了しましたら、スタッフよりお骨の説明をさせていただき、お集まりいただいたご家族の手でお骨を骨壷にお納めいただきます。</p>
+                <p class="plan-step-text-sec">火葬にはお時間をいただきますので、ペットちゃんの思い出話などを楽しみながら待合室でお過ごしください。ご火葬が終了しましたら、スタッフよりお骨の説明をさせていただき、お集まりいただいたご家族の手でお骨を骨壷にお納めいただきます。</p>
             </div>
         </div>
         <div class="plan-arrow-tri">
@@ -170,7 +170,7 @@ Template Name: 立会火葬返骨プラン
         <div class="plan-step">
             <div class="step-text">
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/return.webp">
-                <p class="step-text-sec">拾骨後のご遺骨は骨壷・骨袋に納めてご家族にお返しいたします。</p>
+                <p class="plan-step-text-sec">拾骨後のご遺骨は骨壷・骨袋に納めてご家族にお返しいたします。</p>
             </div>
         </div>
 </section>
