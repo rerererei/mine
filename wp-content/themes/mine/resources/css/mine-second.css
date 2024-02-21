@@ -727,7 +727,7 @@
     .step-text{
         padding: 30px;
     }
-    .step-text img{
+    .step-text img.imgcover{
         margin: 0;
         width: 100%;
         height: 25vw;
