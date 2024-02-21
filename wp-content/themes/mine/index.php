@@ -46,7 +46,7 @@
           <div class="introduction-text">
             ペット葬儀専用の斎場を完備<br>ペット火葬車（移動式火葬）にて<br>県内どこでも対応可能
           </div>
-          <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+          <a href="./facility-guidance" class="btn introduction-button">詳しくはこちら →</a>
       </div>
     </div>
     <div class="introduction-image m-90">
@@ -57,7 +57,7 @@
           <div class="introduction-text">
             創業60 年の実績と信頼の葬儀社<br>火葬・葬祭サービス・納骨まで<br>一連のサービスを提供
           </div>
-          <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+          <a href="./commitment" class="btn introduction-button">詳しくはこちら →</a>
       </div>
       <div class="img-container">
           <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/Commitment.webp">
@@ -74,7 +74,7 @@
           <div class="introduction-text">
             ペットは大切な家族の一員<br>細かな希望に沿った<br>御葬儀をサポート
           </div>
-          <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+          <a href="./funeral-plan" class="btn introduction-button">詳しくはこちら →</a>
       </div>
     </div>
     <div class="introduction-image m-90">
@@ -85,7 +85,7 @@
           <div class="introduction-text">
             ペットも大切な家族だからこそ<br>最後お別れをー<br>
           </div>
-          <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+          <a href="./thought" class="btn introduction-button">詳しくはこちら →</a>
       </div>
       <div class="img-container">
           <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/Representative_s-thoughts.webp">
@@ -102,7 +102,7 @@
           <div class="introduction-text">
             「ペット葬祭MINE」における<br>よくあるご質問をまとめております<br>
           </div>
-          <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+          <a href="./faq" class="btn introduction-button">詳しくはこちら →</a>
       </div>
     </div>
   </section>  
@@ -117,7 +117,7 @@
         <p>県内どこでも対応可能</p>
       </div>
       <div class="detail-btn">
-        <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+        <a href="./facility-guidance" class="btn introduction-button">詳しくはこちら →</a>
       </div>
     </div>
     <div class="introduction-bg bg-img2">
@@ -130,7 +130,7 @@
         <p>一連のサービスを提供</p>
       </div>
       <div class="detail-btn">
-        <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+        <a href="./commitment" class="btn introduction-button">詳しくはこちら →</a>
       </div>
     </div>
     <div class="introduction-bg bg-img4">
@@ -143,7 +143,7 @@
         <p>御葬儀をサポート</p>
       </div>
       <div class="detail-btn">
-        <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+        <a href="./funeral-plan" class="btn introduction-button">詳しくはこちら →</a>
       </div>
     </div>
     <div class="introduction-bg bg-img5">
@@ -155,7 +155,7 @@
         <p>最後お別れをー</p>
       </div>
       <div class="detail-btn">
-        <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+        <a href="./thought" class="btn introduction-button">詳しくはこちら →</a>
       </div>
     </div>
     <div class="introduction-bg bg-img6">
@@ -167,7 +167,7 @@
         <p>よくあるご質問をまとめております</p>
       </div>
       <div class="detail-btn">
-        <a href="#" class="btn introduction-button">詳しくはこちら →</a>
+        <a href="./faq" class="btn introduction-button">詳しくはこちら →</a>
       </div>
     </div>
   </section>
@@ -212,7 +212,7 @@
     </div>
     <div class="sns-area">
       <h3 class="sns-title">Facebook</h3>
-      <div class="FBArea"></div>
+      <div class="FBArea"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D122110508504194011%26id%3D61555820353969%26substory_index%3D270668339204146&show_text=true" style="border:none;overflow:hidden;width: 100%;height: 550px;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
       <h3 class="sns-title">Instagram</h3>
       <div class="InstaArea">
         <?php echo do_shortcode('[instagram-feed feed=1]'); ?>
