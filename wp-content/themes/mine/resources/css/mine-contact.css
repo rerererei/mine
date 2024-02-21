@@ -140,26 +140,26 @@
     }
     
     .contact-form th{
-        width: 30%;
+        width: 100%;
         border: 1px solid #e8e8e8;
         padding: 3%;
         background-color: #00214A;
         vertical-align: middle;
         box-sizing: border-box;
         position: relative;
-        top: 10px;
+        top: 20px;
         color: #ffffff;
     }
 
     .contact-form td{
-        width: 70%;
+        width: 100%;
         border: 1px solid #e8e8e8;
         vertical-align: middle;
         background-color: #ffffff;
         padding: 3%;
         box-sizing: border-box;
         position: relative;
-        top: 10px;
+        top: 20px;
     }
 
     .form_button{
@@ -179,8 +179,8 @@
         opacity: 1;
         cursor: pointer;
         position: relative;
-        top: 10px;
-        margin-bottom: 110px;
+        top: 20px;
+        margin-bottom: 0px;
     }
 
     .background-color-gray-contact {
