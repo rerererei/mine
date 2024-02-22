@@ -37,11 +37,13 @@ Template Name: 立会火葬返骨プラン
 <section class="second-gray-area">
     <h2 class="about-plan-text">サービス内容</h2>
     <div class="img-area">
-        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/presence-plan/presence-table-sp.webp"/>
+        <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/presence-plan/presence-table.webp"/>
+        <img class="spview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/presence-plan/presence-table-sp.webp"/>
     </div>
     <h2 class="about-plan-text">ご利用の一例</h2>
     <div class="img-area">
-        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/presence-plan/sample-plan-sp.webp"/>
+        <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/presence-plan/sample-plan.webp"/>
+        <img class="spview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/presence-plan/sample-plan-sp.webp"/>
     </div>
 </section>
 <section class="second-flow-area pcview">
@@ -177,7 +179,23 @@ Template Name: 立会火葬返骨プラン
 
 <section class="second-gray-area">
     <h2 class="about-plan-text">その他のプランのご案内</h2>
-    <div class="img-area">
+    <div class="img-area pcview">
+        <div class="container">
+            <div class="row">
+                <div class="col-6">
+                    <a class="plan-link" href="/mine/together-plan/">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/goudou.webp"/>
+                    </a>
+                </div>
+                <div class="col-6">
+                    <a class="plan-link" href="/mine/visit-plan/">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.webp"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="img-area spview">
         <a class="plan-link" href="/mine/together-plan/">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/goudou.webp"/>
         </a>

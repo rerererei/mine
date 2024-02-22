@@ -25,7 +25,9 @@ Template Name: 葬儀の流れとプラン
 </section>
 <section class="funeral-plan-description">
     <p class="funeral-plan-description-1st">もしもペットが亡くなったら</p>
-    <p class="funeral-plan-description-2nd">「まずは気持ちを落ち着かせることが大切です。」</p>
+    <p class="funeral-plan-description-2nd pcview">「まずは気持ちを落ち着かせることが大切です。」</p>
+    <p class="funeral-plan-description-2nd spview">まずは気持ちを</p>
+    <p class="funeral-plan-description-2nd spview">落ち着かせることが大切です。</p>
     <p class="funeral-plan-description-3rd">
         大切な家族とのお別れはつらく悲しいものです。<br>
         ですが、そんな愛おしい家族だからこそ、<br>
@@ -160,7 +162,28 @@ Template Name: 葬儀の流れとプラン
         ペット葬祭MINE では、細かな希望に沿った<br>
         セレモニーをサポートします。
     </p>
-    <div>
+    <div class="pcview">
+        <div class="container">
+            <div class="row">
+                <div class="col-4">
+                    <a href="/mine/presence-plan/">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.webp"/>
+                    </a>
+                </div>
+                <div class="col-4">
+                    <a href="/mine/together-plan/">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/goudou.webp"/>
+                    </a>
+                </div>
+                <div class="col-4">
+                    <a href="/mine/visit-plan/">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.webp"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="spview">
         <a href="/mine/presence-plan/">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.webp"/>
         </a>

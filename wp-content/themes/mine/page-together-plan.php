@@ -173,7 +173,23 @@ Template Name: 合同火葬納骨プラン
 
 <section class="second-gray-area">
     <h2 class="about-plan-text">その他のプランのご案内</h2>
-    <div class="img-area">
+    <div class="img-area pcview">
+    <div class="container">
+            <div class="row">
+                <div class="col-6">
+                    <a class="plan-link" href="/mine/visit-plan/">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.webp"/>
+                    </a>
+                </div>
+                <div class="col-6">
+                    <a class="plan-link" href="/mine/presence-plan/">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.webp"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="img-area spview">
         <a class="plan-link" href="/mine/visit-plan/">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.webp"/>
         </a>
