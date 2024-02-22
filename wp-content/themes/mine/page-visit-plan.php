@@ -19,7 +19,7 @@ Template Name: 訪問ご自宅プラン
 <section class="second-top-text">
     <h2 class="about-plan-text" style="padding-bottom: 0px">訪問ご自宅プランとは</h2>
     <hr>
-    <p class="about-plan-description">移動火葬車でご自宅までお伺いし、<br>火葬をいたします。最愛の家族と共に過ごした<br>ご自宅にてお別れをすることができます。</p>
+    <p class="about-plan-description">移動火葬車でご自宅までお伺いし、火葬<br>をいたします。最愛の家族と共に過ごした<br>ご自宅にてお別れをすることができます。</p>
     <div class="osusume-square">
         <p class="osusume-title">このような方におすすめ</p>
         <div class="pcview">

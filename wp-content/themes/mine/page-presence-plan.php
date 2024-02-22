@@ -19,7 +19,7 @@ Template Name: 立会火葬返骨プラン
 <section class="second-top-text">
     <h2 class="about-plan-text" style="padding-bottom: 0px">立会火葬返骨プランとは</h2>
     <hr>
-    <p class="about-plan-description">ご家族立会いのもとで火葬を執り行います。<br>収骨、お骨をご自宅にお持帰りいただくことも出来ます。<br>個別に火葬いたしますので、完全予約制です。</p>
+    <p class="about-plan-description">ご家族立会いのもとで火葬を執り行います。<br>収骨後、ご自宅にお持帰りいただくことも出来ます。<br>個別に火葬いたしますので、完全予約制です。</p>
     <div class="osusume-square">
         <p class="osusume-title">このような方におすすめ</p>
         <div class="pcview">

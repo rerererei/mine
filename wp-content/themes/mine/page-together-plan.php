@@ -19,7 +19,7 @@ Template Name: 合同火葬納骨プラン
 <section class="second-top-text">
     <h2 class="about-plan-text" style="padding-bottom: 0px">合同火葬納骨プランとは</h2>
     <hr>
-    <p class="about-plan-description">火葬前にお別れしていただき、<br>ほかのペットちゃんと一緒に火葬と埋葬をいたします。<br>ご家族の同伴も可能です。<br>火葬中のお立会いや収骨はできません。</p>
+    <p class="about-plan-description">火葬前にお別れしていただき、ほかの<br>ペットちゃんと一緒に火葬と埋葬をします。<br>ご家族の同伴も可能です。<br>火葬中のお立会いや収骨はできません。</p>
     <div class="osusume-square">
         <p class="osusume-title">このような方におすすめ</p>
         <div class="pcview">
