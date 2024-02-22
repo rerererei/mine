@@ -675,3 +675,75 @@
         display: none;
     }
 }
+@media screen and (max-width: 470px) {
+    .second-header .plan-title{
+        width: 60%;
+        padding-top: 90px;
+    }
+    .second-header .plan-title img {
+        width: 45%;
+    }
+    .second-header .plan-title h1{
+        font-size: 6vw;
+    }
+    .second-description p {
+        font-size: 4vw;
+    }
+    .second-top-text{
+        padding-top: 5px;
+    }
+    .about-plan-text{
+        padding: 0;
+        font-size: 6vw;
+    }
+    .second-top-text hr{
+        margin: 0 auto;
+        width: 50vw;
+    }
+    .about-plan-description{
+        margin-top: 15px;
+        font-size: 4vw;
+        margin-bottom: 30px;
+    }
+    .osusume-square{
+        width: 100%;
+    }
+    .osusume-title{
+        font-size: 4vw;
+        width: 55vw;
+        top: -12px;
+    }
+    .about-plan-text{
+        font-size: 6vw;
+        padding: 15px;
+    }
+
+    .plan-step-title{
+        font-size: 6vw;
+        left: 15vw;
+        top: 9vw;
+    }
+    .step-text{
+        padding: 30px;
+    }
+    .step-text img.imgcover{
+        margin: 0;
+        width: 100%;
+        height: 25vw;
+        object-fit: cover;    
+    }
+    .plan-step-text-sec{
+        font-size: 3vw;
+        width: 100%;
+        text-align: left;
+        margin-top: 15px;
+    }
+    .plan-arrow-tri {
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: -20px;
+    }
+    .plan-step-text-top{
+        text-align: left;
+    }
+}

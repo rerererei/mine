@@ -51,6 +51,11 @@
                 <input type="checkbox" id="menu-btn-check">
                 <label for="menu-btn-check" class="menu-btn"><span></span></label>
                 <div class="menu-content">
+                    <div style="margin: 25px 0;text-align: center;">
+                        <a href="/mine">
+                            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/MINE-01.webp" style="width: 50%;"/>
+                        </a>
+                    </div>
                     <ul>
                         <li><a href="./facility-guidance">施設案内</a></li>
                         <li><a href="./commitment">こだわり</a></li>
