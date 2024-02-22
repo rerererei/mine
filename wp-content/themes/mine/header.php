@@ -53,7 +53,7 @@
                 <div class="menu-content">
                     <div style="margin: 25px 0;text-align: center;">
                         <a href="/mine">
-                            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/MINE-01.webp" style="width: 50%;"/>
+                            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/MINE-white.webp" style="width: 50%;"/>
                         </a>
                     </div>
                     <ul>

@@ -312,6 +312,9 @@
         padding-right: 25px;
         padding-left: 25px;
     }
+    .funeral-plan-head {
+        background-image: url('../images/sp/Funeral-Flow-and-Plan-top.webp');
+    }
 }
 
 /* 葬儀プランと流れ */
@@ -491,10 +494,10 @@
         font-size: 25px;
     }
     .funeral-plan-description-2nd {
-        font-size: 17px;
+        font-size: 15px;
     }
     .funeral-plan-description-3rd {
-        font-size: 17px;
+        font-size: 15px;
     }
     .funeral-plan-anchi-1st {
         font-size: 25px;
@@ -520,7 +523,7 @@
         padding: 40px 20px;
     }
     .step-text-top {
-        font-size: 5vw;
+        font-size: 4vw;
         font-weight: bold;
         width: 100%;
     }
@@ -529,7 +532,7 @@
         margin-left: 14vw;
     }
     .step-text-sec {
-        font-size: 4vw;
+        font-size: 3.5vw;
         width: 100%;
         margin-top: 25px;
     }
@@ -553,8 +556,8 @@
         font-size: 6vw;
     }
     .funeral-plan-detail p {
-        font-size: 4vw;
-        margin: 50px 0;
+        font-size: 3.5vw;
+        margin: 30px 0;
         font-weight: bold;
     }
 }

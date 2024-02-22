@@ -6,7 +6,12 @@ Template Name: 葬儀の流れとプラン
 <?php get_header(); ?>
 
 <section class="second-header funeral-plan-head">
-    <div class="second-title" style="width: 60%;">
+    <div class="second-title pcview" style="width: 55%;">
+        <h1>葬儀の流れとプラン</h1>
+        <hr>
+        <h2>Funeral Flow And Plan</h2>
+    </div>
+    <div class="second-title spview" style="width: 80%;">
         <h1>葬儀の流れとプラン</h1>
         <hr>
         <h2>Funeral Flow And Plan</h2>
