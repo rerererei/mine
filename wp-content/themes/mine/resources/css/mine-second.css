@@ -664,6 +664,13 @@
     color: #00214A;
 }
 
+.price-list {
+    font-size: 30px;
+    text-align: center;
+    color: #2c7ca3 !important;
+    padding: 20px;
+}
+
 .plan-step-text-sec {
     font-size: 25px;
     font-weight: bold;
@@ -756,5 +763,14 @@
         width: fit-content;
         margin: 0 auto;
         margin-bottom: 25px;
+    }
+    .price-list {
+        font-size: 20px;
+        text-align: center;
+        color: #2c7ca3 !important;
+    }
+    .second-gray-area{
+        background-color: #DEDEDE;
+        padding-bottom: 20px;
     }
 }

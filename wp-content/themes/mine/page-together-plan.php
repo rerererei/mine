@@ -25,7 +25,7 @@ Template Name: 合同火葬納骨プラン
         <div class="pcview">
             <p style="font-size: 25px;color: #00214A;border-bottom: solid 1px #00214A;width: fit-content;margin: 0 auto;">霊園へお参りをしてあげたい方</p>
             <p style="margin-top: 2rem;font-size: 25px;color: #00214A;border-bottom: solid 1px #00214A;width: fit-content;margin: 2rem auto;">ご遺骨をご自宅などに置けない方</p>
-            <p style="margin-top: 2rem;font-size: 25px;color: #00214A;border-bottom: solid 1px #00214A;width: fit-content;margin: 2rem auto;">他の動物たちと一緒に供養をしてあげたい方</p>
+            <p style="margin-top: 2rem;font-size: 25px;color: #00214A;  border-bottom: solid 1px #00214A;width: fit-content;margin: 2rem auto;">他の動物たちと一緒に供養をしてあげたい方</p>
         </div>
         <div class="spview">
             <p style="font-size: 4vw;color: #00214A;border-bottom: solid 1px #00214A;width: fit-content;margin: 0 auto;">霊園へお参りをしてあげたい方</p>
@@ -40,6 +40,7 @@ Template Name: 合同火葬納骨プラン
         <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/together-tabale.webp"/>
         <img class="spview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/together-tabale-sp.webp"/>
     </div>
+    <p  class="faq-link"><a class="price-list" href="./pdf/Price-list.pdf">【基本費用についてはこちら】</a></p>
 </section>
 <section class="second-flow-area pcview">
     <h2 class="about-plan-text" style="padding-bottom: 0px;">葬儀の流れ</h2>
