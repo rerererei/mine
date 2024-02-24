@@ -148,14 +148,14 @@ Template Name: 施設案内
                     </div>
                     <p class="title-txt">ペット葬祭 MINE</p>
                     <p class="title-txt">〒759-2214</p>
-                    <p class="title-txt">山口県美祢市大嶺町奥分170</p>
+                    <p class="title-txt">山口県美祢市大嶺町奥分197-1</p>
                 </div>
             </div>
             <div class="col-1">
             </div>
             <div class="col-4">
                 <div class="map">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13203.035837600593!2d131.179231!3d34.1780799!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35437b153daa9e11%3A0x4e738b2f47b9b215!2z576O56Wi6JGs56Wt5pyJ6ZmQ5Lya56S-!5e0!3m2!1sja!2sjp!4v1708043777557!5m2!1sja!2sjp" width="520" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1650.4311831411821!2d131.17938257099516!3d34.17543641071989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35437bb347466525%3A0xb8887818aa7fcf4!2z44Oa44OD44OI6JGs56WtTUlORQ!5e0!3m2!1sja!2sjp!4v1708756590610!5m2!1sja!2sjp" width="520" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
@@ -168,11 +168,11 @@ Template Name: 施設案内
         </div>
         <p class="title-txt-left">ペット葬祭 MINE</p>
         <p class="title-txt-left">〒759-2214</p>
-        <p class="title-txt-left">山口県美祢市大嶺町奥分170</p>
+        <p class="title-txt-left">山口県美祢市大嶺町奥分197-1</p>
         <br>
     </div>
     <div class="map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13203.035837600593!2d131.179231!3d34.1780799!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35437b153daa9e11%3A0x4e738b2f47b9b215!2z576O56Wi6JGs56Wt5pyJ6ZmQ5Lya56S-!5e0!3m2!1sja!2sjp!4v1708043777557!5m2!1sja!2sjp" width="320" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1650.4311831411821!2d131.17938257099516!3d34.17543641071989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35437bb347466525%3A0xb8887818aa7fcf4!2z44Oa44OD44OI6JGs56WtTUlORQ!5e0!3m2!1sja!2sjp!4v1708756590610!5m2!1sja!2sjp" width="320" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </section>
 <br><br>
