@@ -45,7 +45,7 @@ Template Name: 立会火葬返骨プラン
         <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/presence-plan/sample-plan.webp"/>
         <img class="spview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/presence-plan/sample-plan-sp.webp"/>
     </div>
-    <p  class="faq-link"><a class="price-list" href="./pdf/Price-list.pdf">【基本費用についてはこちら】</a></p>
+    <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Price-list.pdf" target="_blank">【基本費用についてはこちら】</a></p>
 </section>
 <section class="second-flow-area pcview">
     <h2 class="about-plan-text" style="padding-bottom: 0px;">葬儀の流れ</h2>

@@ -669,6 +669,7 @@
     text-align: center;
     color: #2c7ca3 !important;
     padding: 20px;
+    text-decoration: underline !important;
 }
 
 .plan-step-text-sec {
@@ -768,6 +769,7 @@
         font-size: 20px;
         text-align: center;
         color: #2c7ca3 !important;
+        text-decoration: underline;
     }
     .second-gray-area{
         background-color: #DEDEDE;

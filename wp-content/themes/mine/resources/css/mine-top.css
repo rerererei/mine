@@ -342,4 +342,9 @@ section.catch-copy .catch-copy-content .catch-copy-text p {
         right: 4px;
         width: 150px;
     }
+
+    ._2qgu._2qgu {
+        width: 80% !important;
+        height: 100% !important;
+    }
 }
