@@ -184,12 +184,12 @@
       <div class="scroll-area">
         <div class="whats-new-text-area">
           <div class="post-item">
-            <p>2023.02.24</p>
+            <p>2024.02.01</p>
             <p>日本動物葬儀霊園協会の正会員になりました。</p>
             <p>日本動物葬儀霊園協会</p><a href="https://ndsrk.org/director/" class="faq-link"><p>https://ndsrk.org/</p></a>
           </div>
           <div class="post-item">
-            <p>2023.02.24</p>
+            <p>2022.06.20</p>
             <p>動物葬祭ディレクターの資格をとりました。</p>
             <a href="https://ndsrk.org/director/" class="faq-link"><p>https://ndsrk.org/director/</p></a>
           </div>
