@@ -19,7 +19,7 @@ Template Name: 合同火葬納骨プラン
 <section class="second-top-text">
     <h2 class="about-plan-text" style="padding-bottom: 0px">合同火葬納骨プランとは</h2>
     <hr>
-    <p class="about-plan-description">火葬前にお別れしていただき、ほかの<br>ペットちゃんと一緒に火葬と埋葬をします。<br>ご家族の同伴も可能です。<br>火葬中のお立会いや収骨はできません。</p>
+    <p class="about-plan-description">火葬前にお別れしていただき、ほかの<br>ペットちゃんと一緒に火葬と埋葬をします。<br>火葬中のお立会いや収骨はできません。</p>
     <div class="osusume-square">
         <p class="osusume-title">このような方におすすめ</p>
         <div class="pcview">
@@ -40,7 +40,9 @@ Template Name: 合同火葬納骨プラン
         <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/together-tabale.webp"/>
         <img class="spview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/together-tabale-sp.webp"/>
     </div>
-    <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Price-list.pdf" target="_blank">【基本費用についてはこちら】</a></p>
+    <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Standard-PriceList.pdf" target="_blank">【火葬基本費用についてはこちら】</a></p>
+    <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Ossuary-PriceList.pdf" target="_blank">【納骨堂料金についてはこちら】</a></p>
+    <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Trip-PriceList.pdf" target="_blank">【出張費用についてはこちら】</a></p>
 </section>
 <section class="second-flow-area pcview">
     <h2 class="about-plan-text" style="padding-bottom: 0px;">葬儀の流れ</h2>
@@ -67,9 +69,7 @@ Template Name: 合同火葬納骨プラン
                 </p>
                 <p class="step-text-top">【お迎えの場合】</p>
                 <p class="step-text-sec">スタッフがご自宅へと車でお迎えに伺います。
-                    ※1. 火葬には弊社指定のお棺をご利用いただきます。
-                    （棺S￥3,900 M￥8,500 L￥11,500 2L￥16,500）税込
-                    ※2. 高速代金は別途実費をいただきます。
+                    ※1. 高速代金は別途実費をいただきます。
                 </p>
             </div>
         </div>
@@ -90,19 +90,17 @@ Template Name: 合同火葬納骨プラン
         <div class="plan-step">
             <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/cremation.webp"></div>
             <div class="step-text">
-                <p class="step-text-sec">セレモニー車にて個別火葬を致します。<br>
-                    ※ご自宅に駐車場が無い場合・住宅街の場合はご自宅から離れ火葬を致します。
-                </p>
+                <p class="step-text-sec">セレモニー車にて他のペットちゃんと合同火葬を致します。</p>
             </div>
         </div>
         <div class="plan-arrow-tri">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/next.webp"/>
         </div>
-        <p class="plan-step-title">5. ご返骨</p>
+        <p class="plan-step-title">5. ご納骨</p>
         <div class="plan-step">
             <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/return.webp"></div>
             <div class="step-text">
-                <p class="step-text-sec">拾骨後のご遺骨は骨壷・骨袋に納めてご家族にお返しいたします。</p>
+                <p class="plan-step-text-sec">弊社納骨堂へ他のペットちゃんと一緒に納骨いたします。</p>
             </div>
         </div>
 </section>
@@ -131,9 +129,7 @@ Template Name: 合同火葬納骨プラン
                 </p>
                 <p class="plan-step-text-top">【お迎えの場合】</p>
                 <p class="plan-step-text-sec">スタッフがご自宅へと車でお迎えに伺います。
-                    ※1. 火葬には弊社指定のお棺をご利用いただきます。
-                    （棺S￥3,900 M￥8,500 L￥11,500 2L￥16,500）税込
-                    ※2. 高速代金は別途実費をいただきます。
+                    ※1. 高速代金は別途実費をいただきます。
                 </p>
             </div>
         </div>
@@ -155,19 +151,17 @@ Template Name: 合同火葬納骨プラン
         <div class="plan-step">
             <div class="step-text">
                 <img class="imgcover" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/cremation.webp">
-                <p class="plan-step-text-sec">セレモニー車にて個別火葬を致します。<br>
-                    ※ご自宅に駐車場が無い場合・住宅街の場合はご自宅から離れ火葬を致します。
-                </p>
+                <p class="step-text-sec">セレモニー車にて他のペットちゃんと合同火葬を致します。</p>
             </div>
         </div>
         <div class="plan-arrow-tri">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/next.webp"/>
         </div>
-        <p class="plan-step-title">5. ご返骨</p>
+        <p class="plan-step-title">5. ご納骨</p>
         <div class="plan-step">
             <div class="step-text">
                 <img class="imgcover" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/return.webp">
-                <p class="plan-step-text-sec">拾骨後のご遺骨は骨壷・骨袋に納めてご家族にお返しいたします。</p>
+                <p class="plan-step-text-sec">弊社納骨堂へ他のペットちゃんと一緒に納骨いたします。</p>
             </div>
         </div>
 </section>

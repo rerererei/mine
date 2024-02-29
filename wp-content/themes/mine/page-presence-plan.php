@@ -45,7 +45,9 @@ Template Name: 立会火葬返骨プラン
         <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/presence-plan/sample-plan.webp"/>
         <img class="spview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/presence-plan/sample-plan-sp.webp"/>
     </div>
-    <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Price-list.pdf" target="_blank">【基本費用についてはこちら】</a></p>
+    <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Standard-PriceList.pdf" target="_blank">【火葬基本費用についてはこちら】</a></p>
+    <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Ossuary-PriceList.pdf" target="_blank">【納骨堂料金についてはこちら】</a></p>
+    <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Trip-PriceList.pdf" target="_blank">【出張費用についてはこちら】</a></p>
 </section>
 <section class="second-flow-area pcview">
     <h2 class="about-plan-text" style="padding-bottom: 0px;">葬儀の流れ</h2>
@@ -53,7 +55,7 @@ Template Name: 立会火葬返骨プラン
         <div class="plan-step">
             <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/tell.webp"></div>
             <div class="step-text">
-                <p class="plan-step-text-sec">ペット葬祭MINE へお電話下さい。<br>ペットの種類や大きさ、お迎えのご希望日時などをご連絡ください。 お客様からお伝えいただいた情報をもとにお引取りの日程と費用をお伝えします。</p>
+                <p class="plan-step-text-sec">ペット葬祭MINE へお電話下さい。<br>ペットの種類や大きさ、お迎えのご希望日時などをご連絡ください。 お客様からお伝えいただいた情報をもとに日程と費用をお伝えします。</p>
                 <p class="plan-step-text-sec" style="font-size:55px;text-decoration: underline;">TEL:0837-52-2100</p>
             </div>
         </div>
@@ -64,7 +66,7 @@ Template Name: 立会火葬返骨プラン
         <div class="plan-step">
             <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/visitor.webp"></div>
             <div class="step-text">
-                <p class="step-text-sec">スタッフがご自宅へセレモニー車でお伺いします。<br>※高速料金は別途実費をいただきます。
+                <p class="step-text-sec">ペット葬祭MINEへご来場ください。<br>※駐車場を完備していますので、お車でご来場可能です。
                 </p>
             </div>
         </div>
@@ -76,7 +78,7 @@ Template Name: 立会火葬返骨プラン
             <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/farewell.webp"></div>
             <div class="step-text">
                 <p class="step-text-top">ご遺体の傷みの進行を遅らせます</p>
-                <p class="step-text-sec">ペットちゃんと最後のお別れをなさってきただきます。<br>※1. 火葬出来ないものは入れられない場合もありますので、スタッフにご確認ください。<br>※2. 火葬には弊社指定のお棺をご利用いただきます。<br>（棺S￥3,900 M￥8,500 L￥11,500 2L￥16,500）税込</p>
+                <p class="step-text-sec">ペットちゃんと最後のお別れをなさってきただきます。<br>※1. 火葬出来ないものは入れられない場合もありますので、スタッフにご確認ください。<br>※2. 火葬には弊社指定のお棺をご利用いただきます。<br>（棺S￥7,700 M￥9,900 L￥12,100 2L￥15,400）税込</p>
             </div>
         </div>
         <div class="plan-arrow-tri">
@@ -86,8 +88,7 @@ Template Name: 立会火葬返骨プラン
         <div class="plan-step">
             <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/cremation.webp"></div>
             <div class="step-text">
-                <p class="step-text-sec">セレモニー車にて個別火葬を致します。<br>
-                    ※ご自宅に駐車場が無い場合・住宅街の場合はご自宅から離れ火葬を致します。
+                <p class="step-text-sec">セレモニー車にて個別火葬を致します。
                 </p>
             </div>
         </div>
@@ -118,7 +119,7 @@ Template Name: 立会火葬返骨プラン
         <div class="plan-step">
             <div class="step-text">
                 <img class="imgcover" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/tell.webp">
-                <p class="plan-step-text-sec">ペット葬祭MINE へお電話下さい。<br>ペットの種類や大きさ、お迎えのご希望日時などをご連絡ください。 お客様からお伝えいただいた情報をもとにお引取りの日程と費用をお伝えします。</p>
+                <p class="plan-step-text-sec">ペット葬祭MINE へお電話下さい。<br>ペットの種類や大きさ、お迎えのご希望日時などをご連絡ください。 お客様からお伝えいただいた情報をもとに日程と費用をお伝えします。</p>
                 <p class="plan-step-text-sec" style="font-size: 7vw;text-decoration: underline;width: 100%;text-align:center;">TEL:0837-52-2100</p>
             </div>
         </div>
@@ -129,7 +130,7 @@ Template Name: 立会火葬返骨プラン
         <div class="plan-step">
             <div class="step-text">
                 <img class="imgcover" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/visitor.webp">
-                <p class="plan-step-text-sec">スタッフがご自宅へセレモニー車でお伺いします。<br>※高速料金は別途実費をいただきます。
+                <p class="plan-step-text-sec">ペット葬祭MINEへご来場ください。<br>※駐車場を完備していますので、お車でご来場可能です。
                 </p>
             </div>
         </div>
@@ -141,7 +142,7 @@ Template Name: 立会火葬返骨プラン
             <div class="step-text">
                 <img class="imgcover" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/farewell.webp">
                 <p class="plan-step-text-top">ご遺体の傷みの進行を遅らせます</p>
-                <p class="plan-step-text-sec">ペットちゃんと最後のお別れをなさってきただきます。<br>※1. 火葬出来ないものは入れられない場合もありますので、スタッフにご確認ください。<br>※2. 火葬には弊社指定のお棺をご利用いただきます。<br>（棺S￥3,900 M￥8,500 L￥11,500 2L￥16,500）税込</p>
+                <p class="plan-step-text-sec">ペットちゃんと最後のお別れをなさってきただきます。<br>※1. 火葬出来ないものは入れられない場合もありますので、スタッフにご確認ください。<br>※2. 火葬には弊社指定のお棺をご利用いただきます。<br>（棺S￥7,700 M￥9,900 L￥12,100 2L￥15,400）税込</p>
             </div>
         </div>
         <div class="plan-arrow-tri">
@@ -151,8 +152,7 @@ Template Name: 立会火葬返骨プラン
         <div class="plan-step">
             <div class="step-text">
                 <img class="imgcover" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/cremation.webp">
-                <p class="plan-step-text-sec">セレモニー車にて個別火葬を致します。<br>
-                    ※ご自宅に駐車場が無い場合・住宅街の場合はご自宅から離れ火葬を致します。
+                <p class="plan-step-text-sec">セレモニー車にて個別火葬を致します。
                 </p>
             </div>
         </div>

@@ -37,15 +37,17 @@ Template Name: 訪問ご自宅プラン
 <section class="second-gray-area">
     <h2 class="about-plan-text">サービス内容</h2>
     <div class="img-area">
-        <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/jitaku-naiyou.webp"/>
+        <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/visit-tabale.webp"/>
         <img class="spview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/visit-tabale-sp.webp"/>
     </div>
     <h2 class="about-plan-text">ご利用の一例</h2>
     <div class="img-area">
-        <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/jitaku-example.webp"/>
+        <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/sample-plan.webp"/>
         <img class="spview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/sample-plan-sp.webp"/>
     </div>
-    <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Price-list.pdf" target="_blank">【基本費用についてはこちら】</a></p>
+    <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Standard-PriceList.pdf" target="_blank">【火葬基本費用についてはこちら】</a></p>
+    <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Ossuary-PriceList.pdf" target="_blank">【納骨堂料金についてはこちら】</a></p>
+    <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Trip-PriceList.pdf" target="_blank">【出張費用についてはこちら】</a></p>
 </section>
 <section class="second-flow-area pcview">
     <h2 class="about-plan-text" style="padding-bottom: 0px;">葬儀の流れ</h2>
@@ -53,7 +55,7 @@ Template Name: 訪問ご自宅プラン
         <div class="plan-step">
             <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/tell.webp"></div>
             <div class="step-text">
-                <p class="plan-step-text-sec">ペット葬祭MINE へお電話下さい。<br>ペットの種類や大きさ、お迎えのご希望日時などをご連絡ください。 お客様からお伝えいただいた情報をもとにお引取りの日程と費用をお伝えします。</p>
+                <p class="plan-step-text-sec">ペット葬祭MINE へお電話下さい。<br>ペットの種類や大きさ、お迎えのご希望日時などをご連絡ください。 お客様からお伝えいただいた情報をもとにご訪問の日程と費用をお伝えします。</p>
                 <p class="plan-step-text-sec" style="font-size:55px;text-decoration: underline;">TEL:0837-52-2100</p>
             </div>
         </div>
@@ -76,7 +78,7 @@ Template Name: 訪問ご自宅プラン
             <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/farewell.webp"></div>
             <div class="step-text">
                 <p class="step-text-top">ご遺体の傷みの進行を遅らせます</p>
-                <p class="step-text-sec">ペットちゃんと最後のお別れをなさってきただきます。<br>※1. 火葬出来ないものは入れられない場合もありますので、スタッフにご確認ください。<br>※2. 火葬には弊社指定のお棺をご利用いただきます。<br>（棺S￥3,900 M￥8,500 L￥11,500 2L￥16,500）税込</p>
+                <p class="step-text-sec">ペットちゃんと最後のお別れをなさってきただきます。<br>※1. 火葬出来ないものは入れられない場合もありますので、スタッフにご確認ください。<br>※2. 火葬には弊社指定のお棺をご利用いただきます。<br>（棺S￥7,700 M￥9,900 L￥12,100 2L￥15,400）税込</p>
             </div>
         </div>
         <div class="plan-arrow-tri">
@@ -94,7 +96,17 @@ Template Name: 訪問ご自宅プラン
         <div class="plan-arrow-tri">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/next.webp"/>
         </div>
-        <p class="plan-step-title">5. ご返骨</p>
+        <p class="plan-step-title">5. ご収骨</p>
+        <div class="plan-step">
+            <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/bone-raising.webp"></div>
+            <div class="step-text">
+                <p class="step-text-sec">火葬にはお時間をいただきますので、ペットちゃんの思い出話などを楽しみながら待合室でお過ごしください。ご火葬が終了しましたら、スタッフよりお骨の説明をさせていただき、お集まりいただいたご家族の手でお骨を骨壷にお納めいただきます。</p>
+            </div>
+        </div>
+        <div class="plan-arrow-tri">
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/next.webp"/>
+        </div>
+        <p class="plan-step-title">6. ご返骨</p>
         <div class="plan-step">
             <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/return.webp"></div>
             <div class="step-text">
@@ -108,7 +120,7 @@ Template Name: 訪問ご自宅プラン
         <div class="plan-step">
             <div class="step-text">
                 <img class="imgcover" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/tell.webp">
-                <p class="plan-step-text-sec">ペット葬祭MINE へお電話下さい。<br>ペットの種類や大きさ、お迎えのご希望日時などをご連絡ください。 お客様からお伝えいただいた情報をもとにお引取りの日程と費用をお伝えします。</p>
+                <p class="plan-step-text-sec">ペット葬祭MINE へお電話下さい。<br>ペットの種類や大きさ、お迎えのご希望日時などをご連絡ください。 お客様からお伝えいただいた情報をもとにご訪問の日程と費用をお伝えします。</p>
                 <p class="plan-step-text-sec" style="font-size: 7vw;text-decoration: underline;width: 100%;text-align:center;"><tel >TEL:0837-52-2100</tel></p>
             </div>
         </div>
@@ -130,7 +142,7 @@ Template Name: 訪問ご自宅プラン
         <div class="plan-step">
             <div class="step-text">
                 <img class="imgcover" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/farewell.webp">
-                <p class="plan-step-text-sec">ペットちゃんと最後のお別れをなさってきただきます。<br>※1. 火葬出来ないものは入れられない場合もありますので、スタッフにご確認ください。<br>※2. 火葬には弊社指定のお棺をご利用いただきます。<br>（棺S￥3,900 M￥8,500 L￥11,500 2L￥16,500）税込</p>
+                <p class="plan-step-text-sec">ペットちゃんと最後のお別れをなさってきただきます。<br>※1. 火葬出来ないものは入れられない場合もありますので、スタッフにご確認ください。<br>※2. 火葬には弊社指定のお棺をご利用いただきます。<br>（棺S￥7,700 M￥9,900 L￥12,100 2L￥15,400）税込</p>
             </div>
         </div>
         <div class="plan-arrow-tri">
@@ -148,7 +160,17 @@ Template Name: 訪問ご自宅プラン
         <div class="plan-arrow-tri">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/next.webp"/>
         </div>
-        <p class="plan-step-title">5. ご返骨</p>
+        <p class="plan-step-title">5. ご収骨</p>
+        <div class="plan-step">
+            <div class="step-text">
+                <img class="imgcover" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/bone-raising.webp">
+                <p class="plan-step-text-sec">火葬にはお時間をいただきますので、ペットちゃんの思い出話などを楽しみながら待合室でお過ごしください。ご火葬が終了しましたら、スタッフよりお骨の説明をさせていただき、お集まりいただいたご家族の手でお骨を骨壷にお納めいただきます。</p>
+            </div>
+        </div>
+        <div class="plan-arrow-tri">
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/next.webp"/>
+        </div>
+        <p class="plan-step-title">6. ご返骨</p>
         <div class="plan-step">
             <div class="step-text">
                 <img class="imgcover" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/return.webp">
