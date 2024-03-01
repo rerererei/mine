@@ -171,12 +171,12 @@ Template Name: 葬儀の流れとプラン
                     </a>
                 </div>
                 <div class="col-4">
-                    <a href="/mine/together-plan/">
+                    <a href="/mine/visit-plan/">
                         <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.webp"/>
                     </a>
                 </div>
                 <div class="col-4">
-                    <a href="/mine/visit-plan/">
+                    <a href="/mine/together-plan/">
                         <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/goudou.webp"/>
                     </a>
                 </div>
@@ -187,10 +187,10 @@ Template Name: 葬儀の流れとプラン
         <a href="/mine/presence-plan/">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.webp"/>
         </a>
-        <a href="/mine/together-plan/">
+        <a href="/mine/visit-plan/">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.webp"/>
         </a>
-        <a href="/mine/visit-plan/">
+        <a href="/mine/together-plan/">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/goudou.webp"/>
         </a>
     </div>

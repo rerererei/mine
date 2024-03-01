@@ -64,7 +64,7 @@ Template Name: 訪問ご自宅プラン
         </div>
         <p class="plan-step-title">2. ご訪問</p>
         <div class="plan-step">
-            <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/visit.webp"></div>
+            <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/visitor.webp"></div>
             <div class="step-text">
                 <p class="step-text-sec">スタッフがご自宅へセレモニー車でお伺いします。<br>※高速料金は別途実費をいただきます。
                 </p>
@@ -86,7 +86,7 @@ Template Name: 訪問ご自宅プラン
         </div>
         <p class="plan-step-title">4. お火葬</p>
         <div class="plan-step">
-            <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/cremation.webp"></div>
+            <div class="step-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/cremation.webp"></div>
             <div class="step-text">
                 <p class="step-text-sec">セレモニー車にて個別火葬を致します。<br>
                     ※ご自宅に駐車場が無い場合・住宅街の場合はご自宅から離れ火葬を致します。
@@ -130,7 +130,7 @@ Template Name: 訪問ご自宅プラン
         <p class="plan-step-title">2. ご訪問</p>
         <div class="plan-step">
             <div class="step-text">
-                <img class="imgcover" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/visit.webp">
+                <img class="imgcover" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/visitor.webp">
                 <p class="plan-step-text-sec">スタッフがご自宅へセレモニー車でお伺いします。<br>※高速料金は別途実費をいただきます。
                 </p>
             </div>
@@ -151,7 +151,7 @@ Template Name: 訪問ご自宅プラン
         <p class="plan-step-title">4. お火葬</p>
         <div class="plan-step">
             <div class="step-text">
-                <img class="imgcover" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/cremation.webp">
+                <img class="imgcover" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/cremation.webp">
                 <p class="plan-step-text-sec">セレモニー車にて個別火葬を致します。<br>
                     ※ご自宅に駐車場が無い場合・住宅街の場合はご自宅から離れ火葬を致します。
                 </p>
