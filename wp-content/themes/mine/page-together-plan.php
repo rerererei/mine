@@ -40,7 +40,10 @@ Template Name: 合同火葬納骨プラン
         <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/together-tabale.webp"/>
         <img class="spview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/together-plan/together-tabale-sp.webp"/>
     </div>
-    <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Standard-PriceList.pdf" target="_blank">【火葬基本費用についてはこちら】</a></p>
+    <h2 class="about-plan-text">火葬費用基本一覧</h2>
+    <div class="img-area">
+        <img class="image-100" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/plan-list.webp"/>
+    </div>
     <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Ossuary-PriceList.pdf" target="_blank">【納骨堂料金についてはこちら】</a></p>
     <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Trip-PriceList.pdf" target="_blank">【出張費用についてはこちら】</a></p>
 </section>
