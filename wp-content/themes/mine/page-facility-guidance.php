@@ -31,10 +31,10 @@ Template Name: 施設案内
     <br>
 </section>
 <section class="map-position pcview">
-    <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/map.webp">
+    <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/map.png">
 </section>
 <section class="map-position spview">
-    <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/sp/map.webp">
+    <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/sp/map.png">
 </section>
 <section class="pcview">
     <div class="container margin-left">
