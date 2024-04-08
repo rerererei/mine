@@ -69,7 +69,7 @@ Template Name: こだわり
         </div>
         <div class="commitment-content-text">
             <p class="commitment-title">04. 納骨堂を完備</p>    
-            <p class="commitment-text">納骨堂を完備しているのでいつでも<br>自由な時間にペットのお参りができます。<br>お参りの可能な時間は営業時間内の<br>9 時00 分～ 17 時00 分になります。</p>    
+            <p class="commitment-text">納骨堂を完備しているのでいつでも<br>自由な時間にペットのお参りができます。<br>お参りの可能な時間は営業時間内の<br>9 時00 分～ 16 時30 分になります。</p>    
         </div>
         <div class="commitment-content-img commitment-content-right pcview">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/center-build.webp">

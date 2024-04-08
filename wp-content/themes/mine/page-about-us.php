@@ -150,7 +150,7 @@ Template Name: 会社概要
                             <p class="about-us-h2">営業時間</p>
                         </div>
                         <div class="col-8">
-                            <p class="about-us-h2-left">10:00~17:00</p>
+                            <p class="about-us-h2-left">9:00~16:30</p>
                         </div>
                     </div>
                     <div class="row">
@@ -283,7 +283,7 @@ Template Name: 会社概要
                     <p class="about-us-h2">営業時間</p>
                 </div>
                 <div class="col-8">
-                    <p class="about-us-h2-left">10:00~17:00</p>
+                    <p class="about-us-h2-left">9:00~16:30</p>
                 </div>
             </div>
             <div class="row">
