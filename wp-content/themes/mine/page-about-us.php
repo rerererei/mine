@@ -147,7 +147,7 @@ Template Name: 会社概要
                     <br>
                     <div class="row">
                         <div class="col-4">
-                            <p class="about-us-h2">営業時間</p>
+                            <p class="about-us-h2">納骨堂開館時間</p>
                         </div>
                         <div class="col-8">
                             <p class="about-us-h2-left">9:00~16:30</p>
@@ -280,7 +280,7 @@ Template Name: 会社概要
             <br>
             <div class="row">
                 <div class="col-4">
-                    <p class="about-us-h2">営業時間</p>
+                    <p class="about-us-h2">納骨堂開館時間</p>
                 </div>
                 <div class="col-8">
                     <p class="about-us-h2-left">9:00~16:30</p>
