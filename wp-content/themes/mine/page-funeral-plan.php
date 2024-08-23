@@ -167,12 +167,12 @@ Template Name: 葬儀の流れとプラン
             <div class="row">
                 <div class="col-4">
                     <a href="/mine/presence-plan/">
-                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.webp"/>
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.png"/>
                     </a>
                 </div>
                 <div class="col-4">
                     <a href="/mine/visit-plan/">
-                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.webp"/>
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.png"/>
                     </a>
                 </div>
                 <div class="col-4">
@@ -185,10 +185,10 @@ Template Name: 葬儀の流れとプラン
     </div>
     <div class="spview">
         <a href="/mine/presence-plan/">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.webp"/>
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.png"/>
         </a>
         <a href="/mine/visit-plan/">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.webp"/>
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.png"/>
         </a>
         <a href="/mine/together-plan/">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/goudou.webp"/>

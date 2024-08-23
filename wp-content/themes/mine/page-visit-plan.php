@@ -37,17 +37,17 @@ Template Name: 訪問ご自宅プラン
 <section class="second-gray-area">
     <h2 class="about-plan-text">サービス内容</h2>
     <div class="img-area">
-        <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/visit-tabale.webp"/>
-        <img class="spview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/visit-tabale-sp.webp"/>
+        <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/visit-tabale.png"/>
+        <img class="spview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/visit-tabale-sp.png"/>
     </div>
     <h2 class="about-plan-text">ご利用の一例</h2>
     <div class="img-area">
-        <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/sample-plan.webp"/>
-        <img class="spview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/sample-plan-sp.webp"/>
+        <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/sample-plan.png"/>
+        <img class="spview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/sample-plan-sp.png"/>
     </div>
     <h2 class="about-plan-text">火葬費用基本一覧</h2>
     <div class="img-area">
-        <img class="image-100" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/plan-list.webp"/>
+        <img class="image-100" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/plan-list.png"/>
     </div>
     <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Ossuary-PriceList.pdf" target="_blank">【納骨堂料金についてはこちら】</a></p>
     <p  class="faq-link"><a class="price-list" href="http://petsousai-mine.jp/wp-content/uploads/2024/02/Trip-PriceList.pdf" target="_blank">【出張費用についてはこちら】</a></p>
@@ -202,7 +202,7 @@ Template Name: 訪問ご自宅プラン
     </div>
     <div class="img-area spview">
         <a class="plan-link" href="/mine/presence-plan">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.webp"/>
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.png"/>
         </a>
         <a class="plan-link" href="/mine/together-plan">
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/goudou.webp"/>
