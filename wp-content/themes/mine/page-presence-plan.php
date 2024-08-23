@@ -193,7 +193,7 @@ Template Name: 立会火葬返骨プラン
                 </div>
                 <div class="col-6">
                     <a class="plan-link" href="/mine/visit-plan/">
-                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.webp"/>
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.png"/>
                     </a>
                 </div>
             </div>

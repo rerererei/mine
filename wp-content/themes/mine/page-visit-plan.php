@@ -189,7 +189,7 @@ Template Name: 訪問ご自宅プラン
             <div class="row">
                 <div class="col-6">
                     <a class="plan-link" href="/mine/presence-plan">
-                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.webp"/>
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.png"/>
                     </a>
                 </div>
                 <div class="col-6">
