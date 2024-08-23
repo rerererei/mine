@@ -189,10 +189,10 @@ Template Name: 合同火葬納骨プラン
     </div>
     <div class="img-area spview">
         <a class="plan-link" href="/mine/visit-plan/">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.webp"/>
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/jitaku.png"/>
         </a>
         <a class="plan-link" href="/mine/presence-plan/">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.webp"/>
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/tachiai.png"/>
         </a>
     </div>
 </section>
