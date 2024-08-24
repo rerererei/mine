@@ -43,7 +43,7 @@ Template Name: 訪問ご自宅プラン
     <h2 class="about-plan-text">ご利用の一例</h2>
     <div class="img-area">
         <img class="pcview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/sample-plan.png"/>
-        <img class="spview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/sample-plan-sp.png"/>
+        <img class="spview" src="<?php echo get_stylesheet_directory_uri(); ?>/resources/images/visit-plan/sample-plan-sp2.png"/>
     </div>
     <h2 class="about-plan-text">火葬費用基本一覧</h2>
     <div class="img-area">
